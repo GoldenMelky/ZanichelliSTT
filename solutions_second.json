@@ -1,0 +1,5233 @@
+{
+  "p002": {
+    "e002": [
+      "F",
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F",
+      "T"
+    ],
+    "e001": [
+      "3",
+      "2",
+      "-",
+      "1",
+      "-",
+      "4"
+    ]
+  },
+  "p003": {
+    "e003": [
+      "waiter",
+      "dog walker",
+      "drag racer",
+      "samosa cook"
+    ],
+    "e001": [
+      "a bit boring"
+    ],
+    "e002": [
+      "C His friend Noah, because he is having problems with his girlfriend.",
+      "B Noah and Tessa were really good together.",
+      "B He is serious and practical.",
+      "A Tessa needs someone more like her.",
+      "B You don’t have to have the same personality to get on in a couple."
+    ]
+  },
+  "p007": {
+    "e001": [
+      "can’t stand",
+      "Take off",
+      "carton",
+      "stir",
+      "stepmother",
+      "knee pads",
+      "plot",
+      "selfish",
+      "excited",
+      "hang out",
+      "hoovering",
+      "lawyer",
+      "out",
+      "flight",
+      "cliff",
+      "failed"
+    ]
+  },
+  "p008": {
+    "e001": [
+      "occasionally sets",
+      "jogging",
+      "trendy, plain, black, velvet",
+      "knows",
+      "any",
+      "some",
+      "a lot of",
+      "ran",
+      "came",
+      "Were you",
+      "was driving",
+      "broke",
+      "did you go",
+      "haven’t been",
+      "yet",
+      "’ll carry",
+      "might be",
+      "Did you have to",
+      "mustn’t"
+    ]
+  },
+  "p017": {
+    "e008": [],
+    "e009": [
+      "F",
+      "F",
+      "T",
+      "T",
+      "T",
+      "F"
+    ]
+  },
+  "p011": {
+    "e006": [
+      "was getting",
+      "were sitting",
+      "opened",
+      "appeared",
+      "was wearing",
+      "started",
+      "saw",
+      "thought",
+      "was starting",
+      "felt"
+    ],
+    "e007": [
+      "Did Jo leave",
+      "started",
+      "didn't get",
+      "Are you falling",
+      "met",
+      "don't think",
+      "doesn't leap",
+      "are you having",
+      "retired",
+      "are you doing",
+      "am waiting / 'm waiting",
+      "won",
+      "want",
+      "was Bob crying",
+      "saw",
+      "died",
+      "didn't expect"
+    ],
+    "e005": [
+      "say",
+      "is falling",
+      "are reducing",
+      "are causing / causing",
+      "'re now getting",
+      "says",
+      "'s growing",
+      "'s experiencing",
+      "loses / 's losing",
+      "rank",
+      "are declining"
+    ]
+  },
+  "p014": {
+    "e003": [
+      "That's too bad",
+      "You must be really upset",
+      "do you have to lose",
+      "You're right",
+      "you can do it"
+    ],
+    "e001": [],
+    "e002": [
+      "because she's just split up with her boyfriend / because she's just split up with her boyfriend Pete"
+    ]
+  },
+  "p016": {
+    "e003": [
+      "formal party",
+      "the United States of America / the USA",
+      "rent",
+      "£200 / 200 pounds",
+      "last June",
+      "the school gym"
+    ],
+    "e004": [],
+    "e005": [
+      "last Saturday",
+      "privately",
+      "community",
+      "16 / sixteen",
+      "the north of",
+      "the wilderness"
+    ]
+  },
+  "p009": {
+    "e004": [
+      "retire",
+      "fall in love",
+      "graduate",
+      "move house"
+    ],
+    "e001": [
+      "be",
+      "win",
+      "have",
+      "die"
+    ],
+    "e005": []
+  },
+  "p012": {
+    "e003": [
+      "fell for",
+      "split up",
+      "ask him out",
+      "argued / quarrelled / had a row",
+      "made up",
+      "have a crush on",
+      "cheated on",
+      "went on a date / went out",
+      "don't trust"
+    ],
+    "e002": []
+  },
+  "p015": {
+    "e011": [
+      "in",
+      "on",
+      "in",
+      "at",
+      "at",
+      "in"
+    ]
+  },
+  "p013": {
+    "e010": [
+      "Everyone has / Everybody has / Anybody has / Anyone has",
+      "I want to live somewhere by the sea.",
+      "There isn't anything I like about that film! / There is nothing I like about that film!",
+      "Have you seen my headphones anywhere?",
+      "Years ago, nobody used to propose on social media. / Years ago, no one used to propose on social media.",
+      "She put everything in that box."
+    ],
+    "e009": [
+      "anybody / anyone",
+      "anything",
+      "everything",
+      "somebody / someone",
+      "everywhere",
+      "anywhere",
+      "anything",
+      "Everybody / Everyone",
+      "Nothing"
+    ],
+    "e008": [
+      "used to take place",
+      "Did you use to go",
+      "used to worry",
+      "didn't use to meet",
+      "used to listen",
+      "didn't use to argue",
+      "Did he use to go out",
+      "used to send"
+    ]
+  },
+  "p010": {
+    "e003": [
+      "extra statement",
+      "Hayden",
+      "Camilla",
+      "Sybil",
+      "Sarah",
+      "Stuart",
+      "extra statement",
+      "Hayden",
+      "extra statement"
+    ]
+  },
+  "p018": {
+    "e007": [
+      "fell",
+      "use to",
+      "thought",
+      "was cheating",
+      "nothing",
+      "in heaven",
+      "are enjoying",
+      "everybody"
+    ],
+    "e005": [
+      "anyone",
+      "was",
+      "somewhere",
+      "anything",
+      "nowhere"
+    ],
+    "e002": [
+      "oddlers",
+      "nfancy",
+      "hildhood",
+      "outh",
+      "dolescence",
+      "iddle-aged",
+      "ensioner"
+    ],
+    "e006": [
+      "Anything I can do?",
+      "I'm sorry to hear that / I'm so sorry to hear that",
+      "You must be really upset",
+      "don't give up / hang in there",
+      "What do you have to lose?",
+      "give it a shot"
+    ],
+    "e001": [
+      "start work",
+      "get your driving licence",
+      "get a degree",
+      "get engaged",
+      "get divorced",
+      "leave home"
+    ],
+    "e004": [
+      "used to argue",
+      "Did people use to get married",
+      "used to go",
+      "used to have a crush",
+      "Did you use to make up",
+      "didn't use to trust"
+    ],
+    "e003": [
+      "Do you think",
+      "you are getting",
+      "was transferring",
+      "were playing",
+      "always quarrel",
+      "are arguing",
+      "Did you miss",
+      "was studying",
+      "doesn't usually go",
+      "'s celebrating / is celebrating",
+      "broke up",
+      "was lying / lied"
+    ]
+  },
+  "p024": {
+    "e004": [
+      "F",
+      "F",
+      "F",
+      "T",
+      "F"
+    ],
+    "e003": [
+      "not on the same page",
+      "different opinion",
+      "So do I",
+      "That's a good point"
+    ],
+    "e002": [
+      "New York"
+    ],
+    "e001": [
+      "Negative",
+      "Positive",
+      "Positive",
+      "Negative",
+      "Positive",
+      "Positive",
+      "Negative",
+      "Positive",
+      "Negative",
+      "Neutral",
+      "Positive",
+      "Neutral",
+      "Positive"
+    ]
+  },
+  "p022": {
+    "e005": [
+      "Museum Gardens",
+      "cathedral",
+      "Tower",
+      "275",
+      "City Walls",
+      "cafés",
+      "art galleries"
+    ],
+    "e001": [
+      "H",
+      "C",
+      "D",
+      "I",
+      "E",
+      "F",
+      "J",
+      "B",
+      "G",
+      "A"
+    ]
+  },
+  "p019": {
+    "e002": [
+      "playground",
+      "post office",
+      "petrol station",
+      "law court",
+      "fire station",
+      "railway station"
+    ],
+    "e005": [
+      "village",
+      "cottage",
+      "fence",
+      "village green",
+      "farm",
+      "field",
+      "village hall",
+      "countryside"
+    ],
+    "e001": [
+      "bank",
+      "library",
+      "church",
+      "hospital",
+      "town hall / museum",
+      "school / university",
+      "park",
+      "stadium / arena",
+      "police station",
+      "sports centre"
+    ],
+    "e003": []
+  },
+  "p025": {
+    "e002": [
+      "D. Introduction",
+      "C. Description of the visit",
+      "A. Participants' impressions",
+      "B. Conclusion"
+    ]
+  },
+  "p027": {
+    "e007": []
+  },
+  "p021": {
+    "e005": [
+      "'s been arguing",
+      "'ve been reading",
+      "Have you been painting",
+      "Have they been walking",
+      "We've been building"
+    ],
+    "e006": [
+      "'ve been breeding",
+      "since",
+      "'s been singing",
+      "since",
+      "'ve been driving",
+      "for",
+      "have you been keeping",
+      "'ve been making",
+      "for"
+    ],
+    "e008": [
+      "S",
+      "W",
+      "W",
+      "W",
+      "S"
+    ],
+    "e007": [
+      "She's been working in the new office block for five months",
+      "We've been trying to buy a house in the residential area for ages",
+      "I've been looking for a parking place since 4 o'clock",
+      "My family's been living in this cottage since I was born",
+      "What have you been doing for the last hour"
+    ]
+  },
+  "p023": {
+    "e007": [
+      "may",
+      "must",
+      "might",
+      "can't",
+      "might not",
+      "can't",
+      "must"
+    ],
+    "e006": [
+      "'s been talking",
+      "'ve seen",
+      "have you been reading",
+      "'ve been reading",
+      "'ve just finished",
+      "'s been looking around",
+      "have you been climbing",
+      "have already been",
+      "has he visited"
+    ]
+  },
+  "p026": {
+    "e003": [
+      "B more than two-thirds.",
+      "C One for cultural life and one for being green.",
+      "A local traditions and different cultural activities.",
+      "C for more than 15 years.",
+      "B improving the environment and quality of life."
+    ],
+    "e002": [
+      "a year / one year / 1 year"
+    ],
+    "e004": [
+      "2019",
+      "50 weeks / fifty weeks",
+      "numbers of visitors",
+      "churches and palaces",
+      "historic"
+    ]
+  },
+  "p028": {
+    "e003": [
+      "How long have you been studying Spanish?",
+      "For",
+      "How long has she been working at the company?",
+      "Since",
+      "How long have they been renovating their house?",
+      "Since",
+      "How long have the teams been preparing for the competition?",
+      "For"
+    ],
+    "e006": [
+      "So do I / Me too / Same here",
+      "Neither do I / Nor do I / Me neither",
+      "on the same page",
+      "To be honest",
+      "I don't see it that way",
+      "I don't agree"
+    ],
+    "e004": [
+      "'ve been waiting",
+      "'ve never been",
+      "'ve been saving",
+      "'s arrived",
+      "'s just come",
+      "'s been playing",
+      "'s phoned"
+    ],
+    "e007": [
+      "Have you been walking",
+      "'ve been looking",
+      "vibrant",
+      "for",
+      "Have you visited",
+      "statue",
+      "unpolluted",
+      "hustle and bustle",
+      "dropped",
+      "police station",
+      "must"
+    ],
+    "e002": [
+      "art gallery",
+      "castle",
+      "concert hall",
+      "cathedral",
+      "theatre",
+      "fountain"
+    ],
+    "e005": [
+      "may",
+      "must",
+      "can't",
+      "may not",
+      "might"
+    ],
+    "e001": [
+      "residential",
+      "fence",
+      "neighbourhood",
+      "pedestrian",
+      "railway",
+      "multistorey",
+      "hall"
+    ]
+  },
+  "p033": {
+    "e006": [
+      "whose",
+      "which",
+      "who / whom",
+      "where",
+      "whose",
+      "who",
+      "which",
+      "which"
+    ],
+    "e005": [
+      "who",
+      "who",
+      "where",
+      "which",
+      "which"
+    ]
+  },
+  "p035": {
+    "e002": [
+      "2 reason for writing",
+      "4 details of the problem",
+      "1 expressing disappointment",
+      "3 request for a solution"
+    ],
+    "e003": [
+      "I am writing to complain about your customer service. / I am writing to express my dissatisfaction with your customer service.",
+      "there seems to be a problem with the box",
+      "the package was damaged / the package was broken",
+      "I am quite disappointed",
+      "I am returning the product",
+      "I expect you to send me a full refund immediately / I would like you to send me a full refund immediately"
+    ]
+  },
+  "p036": {
+    "e002": [],
+    "e007": [
+      "Speaker B",
+      "Speaker D",
+      "Speaker A",
+      "Speaker C"
+    ],
+    "e003": [
+      "All",
+      "Not all"
+    ],
+    "e008": [
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F"
+    ]
+  },
+  "p029": {
+    "e003": [
+      "doesn't earn",
+      "borrows",
+      "owes",
+      "spend / waste",
+      "charged",
+      "did you pay",
+      "has just donated / 's just donated",
+      "afford",
+      "save"
+    ],
+    "e002": [
+      "F",
+      "H",
+      "B",
+      "G",
+      "D",
+      "C",
+      "K",
+      "A",
+      "L",
+      "J",
+      "E",
+      "I"
+    ],
+    "e006": [
+      "flat broke",
+      "save for a rainy day",
+      "time is money",
+      "go Dutch"
+    ]
+  },
+  "p032": {
+    "e004": [
+      "B 5,000",
+      "B silver",
+      "A Julius Caesar",
+      "B notes",
+      "C natural",
+      "A London",
+      "C a credit company"
+    ],
+    "e001": [
+      "I",
+      "C",
+      "E",
+      "A",
+      "H",
+      "F",
+      "J",
+      "D",
+      "G",
+      "B"
+    ]
+  },
+  "p034": {
+    "e001": [
+      "Positive",
+      "Negative",
+      "Negative",
+      "Positive",
+      "Negative",
+      "Positive",
+      "Negative",
+      "Negative",
+      "Negative",
+      "Negative"
+    ],
+    "e003": [
+      "I want to make",
+      "I'm sorry to hear that",
+      "was damaged",
+      "we can do",
+      "not satisfied"
+    ]
+  },
+  "p031": {
+    "e005": [
+      "where",
+      "which",
+      "whose",
+      "who",
+      "–"
+    ],
+    "e007": [
+      "which we need to open the locker is missing. / that we need to open the locker is missing. / we need to open the locker is missing.",
+      "The boy that I met at the village hall / The boy who I met at the village hall / The boy I met at the village hall",
+      "That is a young woman whose family earned a lot of money in the hotel business.",
+      "on expensive items which you can't afford. / on expensive items that you can't afford. / on expensive items you can't afford.",
+      "I took that picture at the fair where they talked about different careers."
+    ],
+    "e006": [
+      "which",
+      "can be omitted",
+      "where",
+      "cannot be omitted",
+      "which",
+      "can be omitted",
+      "who",
+      "cannot be omitted",
+      "who",
+      "cannot be omitted",
+      "who",
+      "can be omitted",
+      "which",
+      "can be omitted",
+      "where",
+      "cannot be omitted",
+      "whose",
+      "cannot be omitted"
+    ]
+  },
+  "p037": {
+    "e010": []
+  },
+  "p038": {
+    "e006": [
+      "make a complaint / complain",
+      "There's something wrong",
+      "I'm really disappointed",
+      "I'm sorry you've had / I'm so sorry you've had",
+      "it's not our fault",
+      "I'm afraid there isn't much I can do"
+    ],
+    "e001": [
+      "waste / spend",
+      "borrow",
+      "charge",
+      "earn",
+      "lend",
+      "owe",
+      "withdraw / take out",
+      "save"
+    ],
+    "e005": [
+      "She likes the restaurant where she had dinner yesterday",
+      "This company, whose owner is Australian, plans to expand",
+      "Rihanna, who I've known since primary school, is organising a party for her sister",
+      "I'll never forget the day when I received my first salary",
+      "The ABC factory, which the Smiths supported financially, produces chocolate bars",
+      "He didn't apologise, which I found impolite"
+    ],
+    "e002": [
+      "transfer",
+      "coin",
+      "cash",
+      "currency",
+      "prepaid"
+    ],
+    "e004": [
+      "which",
+      "when",
+      "whose",
+      "who",
+      "where",
+      "which"
+    ],
+    "e003": [
+      "which",
+      "–",
+      "when",
+      "where",
+      "–",
+      "whose",
+      "where"
+    ],
+    "e007": [
+      "spend",
+      "overpriced",
+      "when",
+      "reasonable",
+      "who",
+      "discounted",
+      "credit card",
+      "mobile payment",
+      "which",
+      "damaged",
+      "flat broke",
+      "afford"
+    ]
+  },
+  "p041": {
+    "e005": [
+      "press",
+      "gives",
+      "zero conditional",
+      "hurry",
+      "will arrive",
+      "first conditional",
+      "melts",
+      "leave",
+      "zero conditional",
+      "are",
+      "cry",
+      "zero conditional",
+      "studies",
+      "will he pass",
+      "first conditional",
+      "Will I be",
+      "keep",
+      "first conditional",
+      "won’t get",
+      "go",
+      "first conditional"
+    ],
+    "e006": [
+      "Will they start",
+      "arrives",
+      "leaves",
+      "'ll tidy up",
+      "come",
+      "'ll have",
+      "'ll wave",
+      "sees",
+      "'ll call",
+      "arrives"
+    ],
+    "e007": [
+      "Unless you eat healthy meals, your body won't function well.",
+      "As soon as you start doing regular exercise, you'll feel better.",
+      "Your memory will improve if you stay hydrated.",
+      "Your mood will benefit after you do things you enjoy.",
+      "You'll sleep badly until you reduce your evening screen time."
+    ]
+  },
+  "p046": {
+    "e002": [],
+    "e006": [
+      "B spring.",
+      "A you will have a better way of life.",
+      "C are tense.",
+      "A organise your work area.",
+      "B it would help us, too.",
+      "A to not feel always good."
+    ]
+  },
+  "p047": {
+    "e008": [
+      "foods that are rich in vitamins, minerals and other nutrients"
+    ],
+    "e009": []
+  },
+  "p044": {
+    "e002": [
+      "flu / the flu"
+    ],
+    "e001": [],
+    "e003": [
+      "I feel awful",
+      "these symptoms",
+      "What should I do",
+      "Should I have",
+      "I were you",
+      "You shouldn't worry"
+    ]
+  },
+  "p042": {
+    "e001": [
+      "4",
+      "F",
+      "10",
+      "H",
+      "6",
+      "J",
+      "7",
+      "I",
+      "1",
+      "B",
+      "3",
+      "D",
+      "9",
+      "C",
+      "2",
+      "E",
+      "5",
+      "G",
+      "8",
+      "A"
+    ]
+  },
+  "p039": {
+    "e005": [
+      "wave",
+      "nod",
+      "bend",
+      "cross",
+      "twist"
+    ],
+    "e003": [
+      "lower body",
+      "upper body",
+      "middle body",
+      "lower body",
+      "upper body",
+      "middle body",
+      "upper body",
+      "upper body",
+      "upper body",
+      "upper body",
+      "lower body",
+      "upper body",
+      "upper body",
+      "upper body",
+      "middle body",
+      "lower body",
+      "lower body",
+      "upper body",
+      "upper body",
+      "upper body",
+      "upper body",
+      "middle body",
+      "lower body",
+      "upper body",
+      "lower body",
+      "middle body",
+      "upper body"
+    ],
+    "e001": [
+      "arm",
+      "hand",
+      "foot",
+      "finger",
+      "back",
+      "leg",
+      "neck",
+      "nose",
+      "head"
+    ],
+    "e002": [
+      "D",
+      "L",
+      "E",
+      "R",
+      "A",
+      "F",
+      "Q",
+      "I",
+      "C",
+      "K",
+      "J",
+      "H",
+      "B",
+      "G",
+      "P",
+      "N",
+      "M",
+      "O"
+    ]
+  },
+  "p040": {
+    "e002": [
+      "3",
+      "5",
+      "4",
+      "2",
+      "1"
+    ],
+    "e003": [
+      "T",
+      "F",
+      "F",
+      "T",
+      "F"
+    ]
+  },
+  "p043": {
+    "e006": [
+      "spoke",
+      "'d go",
+      "'d be",
+      "ate",
+      "started",
+      "'d feel",
+      "went",
+      "'d wake up",
+      "got",
+      "would you do",
+      "would come",
+      "didn't have to",
+      "wouldn't do",
+      "were",
+      "Would you call",
+      "had"
+    ],
+    "e007": [
+      "should",
+      "had better",
+      "ought",
+      "shouldn’t",
+      "Should",
+      "’d better not",
+      "should"
+    ]
+  },
+  "p048": {
+    "e005": [
+      "should",
+      "had better",
+      "Should",
+      "shouldn’t",
+      "ought",
+      "why don’t"
+    ],
+    "e003": [
+      "gets",
+      "'ll go",
+      "won't be able to",
+      "buys",
+      "add",
+      "becomes",
+      "won't reopen",
+      "finish"
+    ],
+    "e004": [
+      "didn't pay",
+      "'d cut off",
+      "will tell",
+      "meets",
+      "weren't",
+      "'d help",
+      "Will you call",
+      "finish"
+    ],
+    "e001": [
+      "wave",
+      "toes",
+      "Bend",
+      "waist",
+      "nodding",
+      "thumb"
+    ],
+    "e006": [
+      "What can I do for you?",
+      "I feel awful",
+      "What's the matter?",
+      "my wrist hurts",
+      "What should I do?",
+      "I'll give you a prescription"
+    ],
+    "e002": [
+      "ruise",
+      "rops",
+      "laster",
+      "unny",
+      "ore",
+      "hroat",
+      "yrup"
+    ],
+    "e007": [
+      "should",
+      "aren’t",
+      "painkillers",
+      "twisted",
+      "were",
+      "would",
+      "’d better",
+      "should",
+      "exercise",
+      "fingers crossed"
+    ]
+  },
+  "p050": {
+    "e006": [
+      "B They sell a great variety of things.",
+      "A He needs to compare different prices.",
+      "B look for companies selling the products he likes.",
+      "C goes to a shop just to buy the product he needs.",
+      "A you become a star in a shop you are loyal to.",
+      "C It is perfect for her table."
+    ],
+    "e005": [
+      "A",
+      "D",
+      "D",
+      "A",
+      "D",
+      "A",
+      "A",
+      "A"
+    ]
+  },
+  "p049": {
+    "e003": [
+      "B",
+      "H",
+      "C",
+      "E",
+      "D"
+    ]
+  },
+  "p052": {
+    "e002": [
+      "1995",
+      "150",
+      "Dr Angelina Whalley",
+      "Dr Gunther von Hagens",
+      "healthy and unhealthy lifestyles",
+      "positions of human organs / mechanics of artificial joints / long-term impact of diseases",
+      "33% / 33% of respondents / thirty-three per cent / thirty-three percent / thirty-three percent of respondents",
+      "donating organs",
+      "anything / any admission fees",
+      "exhibition guide"
+    ]
+  },
+  "p053": {
+    "e004": [
+      "H",
+      "D",
+      "J",
+      "B",
+      "F",
+      "A",
+      "G",
+      "I"
+    ]
+  },
+  "p056": {
+    "e003": [
+      "police",
+      "hospitals",
+      "money",
+      "20 pence / twenty pence",
+      "income tax",
+      "your car",
+      "street",
+      "waste",
+      "fizzy drinks",
+      "£750 billion / 750 billion pounds",
+      "deficit"
+    ],
+    "e002": []
+  },
+  "p055": {
+    "e006": [
+      "20",
+      "50",
+      "30"
+    ],
+    "e004": [
+      "B",
+      "D",
+      "A",
+      "C"
+    ],
+    "e005": []
+  },
+  "p054": {
+    "e002": [
+      "Wade",
+      "Meg",
+      "extra type",
+      "Daisy",
+      "Robin",
+      "Luna",
+      "Seth"
+    ]
+  },
+  "p057": {
+    "e005": [
+      "combattere",
+      "prevenire il crimine",
+      "commettere un crimine",
+      "confessare un crimine",
+      "accusare qualcuno di un crimine",
+      "denunciare un crimine"
+    ],
+    "e002": [
+      "8",
+      "4",
+      "5",
+      "3",
+      "2",
+      "7",
+      "1"
+    ],
+    "e003": [
+      "blackmail",
+      "burglar",
+      "drug dealing",
+      "drug dealer",
+      "kidnap",
+      "hacking",
+      "hacker",
+      "hijacking",
+      "hijack",
+      "mugger",
+      "murder",
+      "pickpocket",
+      "robbery",
+      "rob",
+      "shoplifting",
+      "thief",
+      "vandalism",
+      "vandal"
+    ],
+    "e001": [
+      "B",
+      "C",
+      "D",
+      "A",
+      "E"
+    ]
+  },
+  "p059": {
+    "e008": [
+      "shared",
+      "robbed",
+      "hadn't met",
+      "became",
+      "'d made",
+      "found",
+      "committed",
+      "had appeared",
+      "caught"
+    ],
+    "e007": [
+      "laid the table, she'd cooked dinner",
+      "arrived at the theatre, the concert had started",
+      "had warned people about muggers outside the shopping centre, people paid more attention",
+      "started to rain, they'd decided to stop playing golf"
+    ],
+    "e006": [
+      "Had the drug dealers got away",
+      "arrived",
+      "asked",
+      "'d seen",
+      "reached",
+      "had got off",
+      "Did the police block",
+      "the robbers had escaped",
+      "'d vandalised",
+      "didn't do"
+    ],
+    "e005": [
+      "Because a pickpocket had stolen his wallet",
+      "Because the student hadn't done her homework",
+      "Because I had received bad news",
+      "Because hijackers had taken control of the aircraft"
+    ]
+  },
+  "p062": {
+    "e003": [
+      "How come",
+      "I don't understand",
+      "Does this mean",
+      "Can you explain why"
+    ],
+    "e002": [
+      "crime"
+    ]
+  },
+  "p058": {
+    "e002": [
+      "Spider-Man",
+      "Peter Parker",
+      "Ms Marvel",
+      "Kamala Khan"
+    ]
+  },
+  "p064": {
+    "e003": [],
+    "e007": [
+      "tourists / tourists and visitors",
+      "Nicknames",
+      "almost 200 / 200",
+      "police officers / officers",
+      "34,000",
+      "over 30% / over 30 percent / over 30 per cent / over thirty percent / over thirty per cent",
+      "specific locations"
+    ],
+    "e004": [
+      "the Met",
+      "square mile",
+      "royal family",
+      "164",
+      "Airport",
+      "support officers",
+      "headquarters / current headquarters"
+    ],
+    "e002": []
+  },
+  "p065": {
+    "e012": [
+      "F",
+      "T",
+      "T",
+      "F",
+      "F",
+      "T",
+      "F"
+    ],
+    "e011": []
+  },
+  "p061": {
+    "e007": [
+      "The judge couldn't have given him a ten-year prison sentence if the witness hadn't told the truth.",
+      "Would they have arrested that man if they had found his fingerprints in the bank?",
+      "The detective wouldn't have questioned Mr Bolt if he hadn't found him near the corpse.",
+      "I wouldn't have broken my arm if I had been more careful.",
+      "If you had gone into that dark street, you might have seen the gang.",
+      "If her parents had paid a large sum of money, she could have returned home.",
+      "If you had been the victim, what would you have done?"
+    ],
+    "e006": [
+      "would have caught",
+      "hadn't driven",
+      "wouldn't have got",
+      "had barked",
+      "Would you have moved"
+    ]
+  },
+  "p060": {
+    "e005": [
+      "Crimes. / A detective investigates crimes. / They investigate crimes.",
+      "Crime prevention. / It includes crime prevention.",
+      "A drug gang. / Drug dealers.",
+      "One of the witnesses. / A witness.",
+      "A ten-year prison sentence. / Ten years in prison.",
+      "A specialised doctor.",
+      "She likes helping people."
+    ],
+    "e001": [
+      "F",
+      "K",
+      "A",
+      "L",
+      "J",
+      "B",
+      "E",
+      "D",
+      "H",
+      "C",
+      "G",
+      "I"
+    ],
+    "e002": [
+      "witnesses",
+      "evidence",
+      "trial",
+      "guilty",
+      "jury",
+      "judge",
+      "sentence"
+    ],
+    "e004": [
+      "detective",
+      "medical examiner"
+    ]
+  },
+  "p063": {
+    "e003": [
+      "Surprisingly",
+      "accidentally",
+      "patiently",
+      "unexpectedly",
+      "finally",
+      "Luckily"
+    ],
+    "e002": []
+  },
+  "p066": {
+    "e005": [
+      "will make",
+      "Would he run",
+      "call",
+      "had seen",
+      "Would you have come",
+      "occurs",
+      "were",
+      "hadn't left"
+    ],
+    "e006": [
+      "How come?",
+      "I don't understand why",
+      "Can you tell me",
+      "Does this mean / Does this mean that",
+      "Hang on, are you saying",
+      "let's just agree to disagree / let's agree to disagree"
+    ],
+    "e001": [
+      "steal / shoplift",
+      "commit",
+      "pickpockets",
+      "burgled / broke into",
+      "shoplifting / theft",
+      "kidnapper / kidnappers"
+    ],
+    "e003": [
+      "The young girl fainted after she'd seen the burglar.",
+      "They hadn't been so frightened of crime before they moved to that neighbourhood.",
+      "Liz screamed after she'd seen a shadow in the garden.",
+      "When he had saved enough money, he bought the new laptop.",
+      "We'd tried to do the exercise on our own before we asked the teacher for help.",
+      "By the time you called, I'd finished my homework.",
+      "They didn't leave the party until the music had stopped."
+    ],
+    "e007": [
+      "theft",
+      "had arrived",
+      "caught the criminals red-handed",
+      "would have found",
+      "had already been able to sell",
+      "spilt the beans",
+      "confessed to",
+      "evidence",
+      "witnesses",
+      "muggers"
+    ],
+    "e002": [
+      "accused",
+      "jury",
+      "questioned",
+      "accused",
+      "suspect"
+    ],
+    "e004": [
+      "hadn't stolen",
+      "wouldn't have ended up",
+      "had arrived",
+      "would have prevented",
+      "'d seen",
+      "would have provided",
+      "Would you have recognised",
+      "'d run"
+    ]
+  },
+  "p071": {
+    "e008": [
+      "Christopher asked me if I had read that newspaper advert.",
+      "Betty wanted to know when I had arrived.",
+      "Mark asked me if advertising on a digital billboard could promote / Mark asked me whether advertising on a digital billboard could promote",
+      "Ella asked them if the TV report was live.",
+      "Maisie asked where I would buy the new phone.",
+      "Justin wanted to know what I was doing."
+    ],
+    "e006": [
+      "persuade people",
+      "adverts",
+      "has gone",
+      "banner ads",
+      "social media apps",
+      "commercials",
+      "newspapers",
+      "billboards",
+      "promote",
+      "attractive",
+      "launch"
+    ]
+  },
+  "p072": {
+    "e003": [
+      "I believe that",
+      "If you ask me",
+      "In my experience",
+      "It's well known that",
+      "I think"
+    ],
+    "e002": [
+      "The two teens"
+    ],
+    "e004": [
+      "F",
+      "F",
+      "T",
+      "T",
+      "F"
+    ]
+  },
+  "p070": {
+    "e002": [
+      "launch",
+      "advertise",
+      "promote",
+      "influence",
+      "persuade"
+    ],
+    "e003": [
+      "billboards",
+      "advertise",
+      "brands",
+      "leaflet",
+      "commercial",
+      "are promoting",
+      "flyer",
+      "advertising",
+      "Banner ads",
+      "PSA",
+      "persuade"
+    ],
+    "e005": [],
+    "e001": []
+  },
+  "p069": {
+    "e005": [
+      "tell",
+      "say",
+      "said",
+      "tell",
+      "told",
+      "say",
+      "told"
+    ],
+    "e006": []
+  },
+  "p067": {
+    "e005": [
+      "fake",
+      "in the news",
+      "cover",
+      "latest",
+      "react",
+      "spread"
+    ],
+    "e004": [
+      "headlines",
+      "report",
+      "broadcast",
+      "current affairs",
+      "interviewed",
+      "sources",
+      "the press"
+    ],
+    "e003": [],
+    "e001": [
+      "radio",
+      "television",
+      "magazine",
+      "podcast",
+      "social media",
+      "newspaper"
+    ],
+    "e002": [
+      "old media",
+      "old media",
+      "new media",
+      "old media",
+      "new media",
+      "old media"
+    ]
+  },
+  "p068": {
+    "e002": [
+      "-",
+      "2",
+      "4",
+      "3",
+      "1",
+      "-"
+    ]
+  },
+  "p074": {
+    "e003": [
+      "T",
+      "F",
+      "T",
+      "T",
+      "F",
+      "T",
+      "F"
+    ],
+    "e005": [
+      "fake news",
+      "real news"
+    ],
+    "e002": [],
+    "e007": [
+      "source",
+      "report",
+      "photos",
+      "spelling mistakes",
+      "pop-up advertisements",
+      "persuade",
+      "is true / 's true"
+    ]
+  },
+  "p075": {
+    "e010": []
+  },
+  "p076": {
+    "e006": [
+      "According to statistics",
+      "According to a recent survey",
+      "Experts say that",
+      "If you ask me",
+      "I believe that",
+      "many adults prefer"
+    ],
+    "e007": [
+      "spreading",
+      "advertising",
+      "reports",
+      "promote",
+      "persuade",
+      "say",
+      "therefore",
+      "well known",
+      "ads",
+      "whether"
+    ],
+    "e005": [
+      "when the celebrations would take place",
+      "how many people had watched his / how many people had watched her",
+      "what the banner ad said",
+      "if I wanted / whether I wanted",
+      "if he was going to help him / whether he was going to help him",
+      "when he'd bought that",
+      "when Mary was arriving",
+      "if I'd read / whether I'd read"
+    ],
+    "e002": [
+      "brand",
+      "advertisement",
+      "billboard / billboards",
+      "commercial",
+      "launch / promote / advertise",
+      "public awareness campaign / public service announcement (PSA) / PSA / public service announcement"
+    ],
+    "e003": [
+      "said",
+      "tell",
+      "saying",
+      "tell",
+      "say",
+      "tell"
+    ],
+    "e004": [
+      "they'd just covered",
+      "the art director wouldn't give",
+      "that day",
+      "he'd been looking for his sports magazine",
+      "the new leaflet was",
+      "she had interviewed",
+      "the day before / the previous day",
+      "they were spreading",
+      "then / at that moment / at that time",
+      "to listen"
+    ],
+    "e001": [
+      "roadcast",
+      "nterview",
+      "eported",
+      "urrent",
+      "ffairs",
+      "ress",
+      "eadlines",
+      "ource"
+    ]
+  },
+  "p079": {
+    "e007": [
+      "The dangers of artificial intelligence are being discussed by scientists.",
+      "Printers are sold all over the world by this company.",
+      "Has a new gym been built in your school?",
+      "A new version of smart glasses was presented at the fair.",
+      "This device has to be charged regularly.",
+      "Where was the keyboard put?",
+      "The heating will be turned on as soon as it gets cold outside.",
+      "That brand of speakers had never been sold before."
+    ],
+    "e006": [
+      "were sold",
+      "are used / are being used",
+      "have just been added",
+      "will be repaired",
+      "aren't caused",
+      "Is the laptop being charged",
+      "be saved"
+    ],
+    "e005": [
+      "B be",
+      "A being",
+      "B were",
+      "C had already been put",
+      "A be replaced"
+    ]
+  },
+  "p084": {
+    "e004": [
+      "N",
+      "S",
+      "T",
+      "J",
+      "J"
+    ],
+    "e002": [],
+    "e007": [
+      "F",
+      "T",
+      "T",
+      "T",
+      "T",
+      "F",
+      "F"
+    ]
+  },
+  "p077": {
+    "e004": [
+      "was browsing",
+      "plug in / charge",
+      "turn on",
+      "connect",
+      "delete",
+      "scrolled down",
+      "uninstall",
+      "charge"
+    ],
+    "e003": [],
+    "e001": [
+      "B",
+      "D",
+      "A",
+      "G",
+      "E",
+      "M",
+      "J",
+      "I",
+      "N",
+      "F",
+      "H",
+      "K",
+      "C",
+      "L"
+    ]
+  },
+  "p081": {
+    "e011": [
+      "weak",
+      "fare",
+      "peace",
+      "weight",
+      "check",
+      "hair",
+      "where",
+      "meat",
+      "too",
+      "through",
+      "no",
+      "hi",
+      "flew",
+      "right",
+      "by",
+      "hour",
+      "be",
+      "scene",
+      "whole",
+      "new",
+      "see"
+    ],
+    "e007": [
+      "will be given",
+      "'ve recently been promised / have recently been promised",
+      "were told",
+      "has just been awarded",
+      "are being shown"
+    ],
+    "e008": [
+      "She could be lent our powerbank.",
+      "An improvement in his career has been offered to Jack.",
+      "just been shown the new video game they created by Samira and Jonathan. / just been shown by Samira and Jonathan the new video game they created.",
+      "Susan was being taught German by her dad.",
+      "Our friends were offered wi-fi connection by our parents.",
+      "I'll be sold a bike by Thomas.",
+      "A secret was told to Lily by him.",
+      "We're being given some French conversation practice by Alain."
+    ],
+    "e009": [
+      "have our printer fixed / get our printer fixed",
+      "have his car serviced / get his car serviced",
+      "have your eyes tested / get your eyes tested",
+      "has her documents printed / gets her documents printed",
+      "have a photo taken / get a photo taken",
+      "has had a map app installed / has got a map app installed",
+      "have your nails done / get your nails done"
+    ]
+  },
+  "p080": {
+    "e005": [],
+    "e002": [
+      "inventions",
+      "research",
+      "invent",
+      "analyse",
+      "observation / observations"
+    ],
+    "e006": [
+      "research",
+      "burnt",
+      "product",
+      "check",
+      "order shopping",
+      "collect",
+      "your eyes",
+      "zoom",
+      "turn",
+      "print"
+    ],
+    "e003": [
+      "do",
+      "make",
+      "collect",
+      "solve"
+    ],
+    "e001": [
+      "invention",
+      "improve",
+      "create",
+      "discovery",
+      "develop",
+      "observe",
+      "produce",
+      "research"
+    ]
+  },
+  "p082": {
+    "e003": [
+      "It was made in",
+      "does it work",
+      "To begin with",
+      "They are produced",
+      "You are shown"
+    ],
+    "e002": [
+      "The tracker was made in Korea / It was made in Korea / In Korea"
+    ]
+  },
+  "p085": {
+    "e011": []
+  },
+  "p078": {
+    "e003": [
+      "Bluetooth waterproof speakers",
+      "smart water bottle",
+      "smart sunglasses",
+      "Rubik's connected cube",
+      "instant camera",
+      "smart sunglasses",
+      "instant camera",
+      "instant camera",
+      "smart sunglasses / Bluetooth waterproof speakers"
+    ]
+  },
+  "p083": {
+    "e002": [
+      "Something positive"
+    ]
+  },
+  "p086": {
+    "e001": [
+      "monitor / screen",
+      "printer",
+      "charger",
+      "pen drive / memory stick",
+      "keyboard",
+      "headphones"
+    ],
+    "e005": [
+      "had it stolen / 've had it stolen",
+      "have it replaced",
+      "have it checked",
+      "Has she had it repaired",
+      "had the walls repainted",
+      "'ll have this gift sent",
+      "have your hair cut",
+      "had her heart broken"
+    ],
+    "e004": [
+      "I'm being taught to drive by my older cousin.",
+      "Have all its employees been sent letters by the company? / Have letters been sent to all its employees by the company?",
+      "He was given a special prize by the jury. / A special prize was given to him by the jury.",
+      "I'm being sold their old car. / Their old car's being sold to me.",
+      "Should he be told the truth by the lawyers? / Should the truth be told to him by the lawyers?",
+      "You'll be shown around the new house tomorrow.",
+      "Weren't you offered a lift by Sam? / Wasn't a lift offered to you by Sam?"
+    ],
+    "e006": [
+      "It's made of",
+      "Who was it made by?",
+      "Tell me how you did it",
+      "To begin with",
+      "finally",
+      "Where was it made?"
+    ],
+    "e007": [
+      "done",
+      "turn into",
+      "invention",
+      "have data collected",
+      "analyse",
+      "development",
+      "work out",
+      "are solved",
+      "observations",
+      "improvement"
+    ],
+    "e003": [
+      "The injured woman was taken to the hospital by an ambulance.",
+      "My computer's been completely replaced by my smartphone.",
+      "Some videos are being uploaded by my brother.",
+      "The World Wide Web was invented by Tim Berners-Lee more than 30 years ago.",
+      "These files will be deleted to free some disk space.",
+      "The laptop's powered by a rechargeable battery.",
+      "These emails must be sent immediately."
+    ],
+    "e002": [
+      "downloading",
+      "browse",
+      "Scroll",
+      "improve",
+      "uninstall",
+      "produced"
+    ]
+  },
+  "p088": {
+    "e004": [
+      "ending",
+      "beginning",
+      "middle"
+    ]
+  },
+  "p089": {
+    "e012": [
+      "radio presenter",
+      "positive memories",
+      "model",
+      "slogan",
+      "7% / 7 percent / 7 per cent / seven percent / seven per cent",
+      "pessimistic"
+    ]
+  },
+  "p087": {
+    "e003": [
+      "by",
+      "wouldn't have",
+      "camera",
+      "experiments",
+      "collecting",
+      "discovered"
+    ],
+    "e002": [
+      "preposition / a preposition",
+      "verb / a verb",
+      "noun / a noun",
+      "noun / a noun",
+      "verb / a verb",
+      "verb / a verb"
+    ]
+  },
+  "p091": {
+    "e004": [
+      "E",
+      "B",
+      "H",
+      "G",
+      "A",
+      "I",
+      "D"
+    ]
+  },
+  "p090": {
+    "e002": [
+      "I",
+      "F",
+      "J",
+      "A",
+      "D",
+      "B",
+      "G"
+    ]
+  },
+  "p092": {
+    "e003": [],
+    "e004": [
+      "T",
+      "F",
+      "F",
+      "T",
+      "F",
+      "T",
+      "F",
+      "T"
+    ]
+  },
+  "p094": {
+    "e003": []
+  },
+  "p104": {
+    "e002": [],
+    "e004": [
+      "T",
+      "F",
+      "F",
+      "T",
+      "F",
+      "T",
+      "T"
+    ],
+    "e007": [
+      "J",
+      "F",
+      "M",
+      "J",
+      "M",
+      "F"
+    ],
+    "e006": [
+      "The first speaker"
+    ]
+  },
+  "p095": {
+    "e004": [
+      "protagonist",
+      "playwright",
+      "setting",
+      "poet",
+      "chapters",
+      "villain",
+      "happy ending",
+      "novelist",
+      "plot twist"
+    ],
+    "e001": [
+      "biography",
+      "crime story",
+      "horror story",
+      "graphic novel",
+      "fantasy novel",
+      "thriller",
+      "historical novel",
+      "fairy tale",
+      "self-help book",
+      "romantic novel",
+      "sci-fi novel"
+    ],
+    "e003": []
+  },
+  "p098": {
+    "e002": [
+      "abstract painting",
+      "landscape / seascape painting",
+      "portrait",
+      "still life"
+    ],
+    "e001": [
+      "painter",
+      "sculpture",
+      "architect",
+      "photographer",
+      "take photos / take pictures"
+    ],
+    "e003": [
+      "Abstract paintings",
+      "portrait",
+      "still life",
+      "sculptures",
+      "architect",
+      "landscape paintings",
+      "photography",
+      "architecture"
+    ]
+  },
+  "p099": {
+    "e008": [
+      "looked",
+      "sounded like",
+      "looks like",
+      "tasted as if",
+      "sounded as if",
+      "smelled",
+      "feels like"
+    ],
+    "e007": [
+      "looks / looked / seems / seemed",
+      "looks",
+      "sounds",
+      "look",
+      "doesn't taste",
+      "smell / look",
+      "feels",
+      "seems"
+    ],
+    "e006": [
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F"
+    ]
+  },
+  "p096": {
+    "e005": [
+      "can't have gone",
+      "may have left / might have left / could have left",
+      "must have finished",
+      "may have enjoyed / might have enjoyed / could have enjoyed",
+      "must have forgotten",
+      "must have happened"
+    ]
+  },
+  "p105": {
+    "e010": [
+      "5",
+      "1",
+      "4",
+      "3",
+      "2"
+    ],
+    "e011": []
+  },
+  "p097": {
+    "e007": [
+      "must",
+      "can't",
+      "should",
+      "shouldn't",
+      "might"
+    ]
+  },
+  "p100": {
+    "e003": [
+      "I'd prefer",
+      "I don't fancy",
+      "Wouldn't you prefer",
+      "What do you think about",
+      "is the best"
+    ]
+  },
+  "p101": {
+    "e010": [
+      "Negative experiences",
+      "Negative feelings",
+      "Positive experiences",
+      "Positive feelings",
+      "Positive experiences",
+      "Positive feelings",
+      "Positive experiences",
+      "Positive feelings",
+      "Negative experiences",
+      "Negative feelings",
+      "Positive feelings",
+      "Positive experiences",
+      "Positive experiences",
+      "Positive feelings",
+      "Negative experiences",
+      "Negative feelings",
+      "Positive experiences",
+      "Positive feelings"
+    ]
+  },
+  "p106": {
+    "e001": [
+      "crime story",
+      "fantasy novel",
+      "setting",
+      "plot twist",
+      "hit the shelves"
+    ],
+    "e006": [
+      "Which section do you prefer?",
+      "which do you think is the best kind of art",
+      "Would you prefer to focus on",
+      "I'd prefer to concentrate on",
+      "I prefer painting to sculpture",
+      "I'd rather use illustrations than show videos",
+      "I don't fancy that"
+    ],
+    "e004": [
+      "as if",
+      "looks",
+      "like",
+      "felt",
+      "smelled",
+      "–"
+    ],
+    "e003": [
+      "must have enjoyed",
+      "can't have finished",
+      "may not have understood / might not have understood",
+      "can't have met",
+      "should have brought",
+      "may have been inspired / might have been inspired",
+      "must have set",
+      "can't have been",
+      "shouldn't have ignored"
+    ],
+    "e002": [
+      "painter",
+      "architect",
+      "photography",
+      "abstract painting",
+      "sculpted"
+    ],
+    "e007": [
+      "novelist",
+      "plot twist",
+      "must have forgotten",
+      "as if",
+      "shouldn't have",
+      "amazing",
+      "get the picture",
+      "sounded",
+      "must",
+      "annoyed"
+    ],
+    "e005": [
+      "You shouldn't have missed the meeting, because it was important.",
+      "They must have lost the bookmark, as it's not there now.",
+      "She must have been fascinated by the protagonist. She was always talking about him.",
+      "He may have read the book, but he isn't sure. / He might have read the book, but he isn't sure.",
+      "That sculpture looks like marble.",
+      "He can't have finished the series; the last book was published yesterday.",
+      "He should have apologised immediately. He waited too long.",
+      "The room felt warm and cozy."
+    ]
+  },
+  "p114": {
+    "e002": [
+      "and",
+      "Therefore",
+      "Moreover",
+      "To sum up"
+    ]
+  },
+  "p117": {
+    "e010": []
+  },
+  "p107": {
+    "e001": [
+      "ecosystem",
+      "endangered",
+      "atmosphere",
+      "Global warming",
+      "pollution",
+      "greenhouse effect",
+      "Deforestation",
+      "climate change",
+      "sources of energy",
+      "Biodiversity"
+    ],
+    "e003": [],
+    "e004": [
+      "Harmful emissions",
+      "fossil fuels",
+      "solar panels",
+      "carbon dioxide",
+      "waste disposal",
+      "recycling bins"
+    ]
+  },
+  "p112": {
+    "e004": [
+      "F",
+      "T",
+      "F",
+      "F",
+      "F",
+      "T"
+    ],
+    "e003": [
+      "Don't you think",
+      "You can't really believe",
+      "from my point of view",
+      "Can I persuade you",
+      "You really ought to",
+      "I must admit"
+    ]
+  },
+  "p110": {
+    "e006": [
+      "flooding",
+      "bridges",
+      "roads",
+      "most of the people",
+      "buildings",
+      "remain in safe",
+      "Wildfire",
+      "the fire",
+      "put out",
+      "Tsunami",
+      "higher places",
+      "are closely monitoring",
+      "Volcanic eruption",
+      "should stay",
+      "under the snow",
+      "locating"
+    ],
+    "e005": [],
+    "e003": [
+      "volcanic eruption",
+      "earthquake",
+      "avalanche",
+      "tsunami / tidal wave",
+      "wildfire",
+      "hurricane / tornado"
+    ],
+    "e002": [],
+    "e001": [
+      "J",
+      "F",
+      "I",
+      "E",
+      "L",
+      "C",
+      "G",
+      "B",
+      "D",
+      "K",
+      "H",
+      "A"
+    ]
+  },
+  "p109": {
+    "e008": [
+      "to get",
+      "climbing",
+      "cycling",
+      "recycling",
+      "Cutting",
+      "to hear",
+      "playing"
+    ],
+    "e007": [
+      "to start",
+      "complaining",
+      "to throw away",
+      "to use",
+      "getting",
+      "to reduce",
+      "to help",
+      "cleaning",
+      "to look after"
+    ],
+    "e006": [
+      "to put",
+      "Driving",
+      "to save",
+      "eating",
+      "to finish",
+      "joining",
+      "to send"
+    ]
+  },
+  "p116": {
+    "e003": [
+      "F",
+      "T",
+      "T",
+      "F",
+      "T",
+      "F",
+      "T"
+    ],
+    "e002": [],
+    "e007": [
+      "plastic waste",
+      "sharks",
+      "seals",
+      "the most endangered animals",
+      "a round head",
+      "California",
+      "80% / 80 percent / 80 per cent / eighty percent / eighty per cent",
+      "habitat",
+      "protective legislation"
+    ],
+    "e005": [
+      "seal",
+      "crab",
+      "starfish",
+      "vaquita"
+    ],
+    "e006": []
+  },
+  "p111": {
+    "e007": [
+      "managed",
+      "to",
+      "succeeded",
+      "in",
+      "was able",
+      "to",
+      "hadn't succeeded",
+      "in",
+      "manage",
+      "to",
+      "succeeded",
+      "in"
+    ],
+    "e009": [
+      "Athens is the capital of Greece.",
+      "The Millers had to leave their house after the flooding.",
+      "Firefighters have tried to put out wildfires in the capital city.",
+      "The climate is changing.",
+      "Katrina was one of the most destructive hurricanes ever in the USA."
+    ],
+    "e008": [
+      "Have you ever been to the UK?",
+      "The number of casualties in that plane crash was high.",
+      "St Patrick's Day has a typical colour: green.",
+      "The Po is the longest river in Italy.",
+      "The avalanche on Mount Everest killed 28 people."
+    ]
+  },
+  "p113": {
+    "e012": [
+      "PROS",
+      "CONS",
+      "PROS",
+      "CONS",
+      "CONS",
+      "CONS",
+      "PROS",
+      "PROS",
+      "CONS",
+      "PROS"
+    ],
+    "e010": [
+      "frog",
+      "monkey",
+      "whale",
+      "rhino",
+      "rabbit",
+      "penguin",
+      "shark",
+      "elephant",
+      "tiger",
+      "turtle",
+      "dolphin",
+      "guinea pig",
+      "endangered",
+      "endangered",
+      "endangered",
+      "used for testing",
+      "endangered",
+      "endangered",
+      "used for testing",
+      "used for testing",
+      "used for testing",
+      "endangered",
+      "endangered",
+      "endangered"
+    ]
+  },
+  "p118": {
+    "e006": [
+      "have you ever thought",
+      "You can't believe that",
+      "try to see it from my point of view",
+      "That's not the point",
+      "you must admit that",
+      "Can I persuade you to"
+    ],
+    "e004": [
+      "didn't succeed in predicting",
+      "was able to win",
+      "couldn't recharge",
+      "didn't manage to complete",
+      "succeeded in scoring",
+      "managed to win",
+      "weren't able to extinguish",
+      "succeeded in rescuing"
+    ],
+    "e005": [
+      "–",
+      "–",
+      "–",
+      "the",
+      "The",
+      "the",
+      "–",
+      "the"
+    ],
+    "e001": [
+      "climate change",
+      "Deforestation / Pollution",
+      "atmosphere",
+      "fossil fuels",
+      "Solar panels"
+    ],
+    "e002": [
+      "flowed",
+      "put out",
+      "eruption",
+      "tidal wave",
+      "a landslide"
+    ],
+    "e003": [
+      "Cycling",
+      "to do",
+      "studying",
+      "to see",
+      "installing",
+      "to use",
+      "to hand in"
+    ],
+    "e007": [
+      "manage to",
+      "wildfire",
+      "–",
+      "broke out",
+      "heatwave",
+      "The",
+      "ecosystem",
+      "endangered",
+      "penguins",
+      "emphasising",
+      "to"
+    ]
+  },
+  "p123": {
+    "e008": [
+      "got",
+      "to help",
+      "let",
+      "go",
+      "made",
+      "say",
+      "let",
+      "discourage",
+      "made",
+      "tidy",
+      "get",
+      "to find"
+    ],
+    "e007": [
+      "make / 're making",
+      "got / 's getting",
+      "let",
+      "get",
+      "let",
+      "got",
+      "made",
+      "make"
+    ],
+    "e009": [
+      "didn't he",
+      "can he",
+      "haven't they",
+      "did she",
+      "will you",
+      "aren't I",
+      "shall we",
+      "won't they"
+    ]
+  },
+  "p126": {
+    "e002": [
+      "On the one hand",
+      "argument in favour",
+      "Moreover",
+      "Although",
+      "All in all"
+    ]
+  },
+  "p128": {
+    "e002": [],
+    "e004": [
+      "E",
+      "C",
+      "L",
+      "A"
+    ],
+    "e006": [
+      "public awareness campaigns"
+    ],
+    "e007": [
+      "self-defence",
+      "gender equality",
+      "environmental causes",
+      "delivery riders",
+      "volunteered themselves / volunteered",
+      "social change"
+    ]
+  },
+  "p121": {
+    "e008": [
+      "herself",
+      "each other / one another",
+      "ourselves",
+      "yourself / yourselves",
+      "each other / one another",
+      "itself",
+      "each other / one another"
+    ],
+    "e007": [
+      "weren't",
+      "had learnt",
+      "had joined",
+      "were",
+      "had told",
+      "launched",
+      "could"
+    ],
+    "e006": [
+      "eliminate water pollution.",
+      "I wish I could win a gold medal. / If only I could win a gold medal.",
+      "I wish I had a job. / If only I had a job.",
+      "I wish I sat in parliament. / If only I sat in parliament."
+    ]
+  },
+  "p119": {
+    "e001": [
+      "unemployment",
+      "civil rights",
+      "immigration / emigration",
+      "poverty",
+      "discrimination",
+      "freedom of expression",
+      "inequality"
+    ],
+    "e003": [
+      "political party",
+      "candidates",
+      "leader",
+      "elections",
+      "Minister",
+      "president",
+      "government",
+      "citizen",
+      "parliament",
+      "politician"
+    ],
+    "e004": [
+      "B",
+      "G",
+      "D",
+      "E",
+      "C",
+      "A",
+      "F"
+    ]
+  },
+  "p124": {
+    "e002": [
+      "Rohaan"
+    ],
+    "e003": [
+      "I should have left",
+      "make a difference",
+      "I shouldn't have been",
+      "I wish",
+      "I had chatted less"
+    ]
+  },
+  "p120": {
+    "e004": [
+      "a sense of purpose",
+      "a better place",
+      "discover a cure",
+      "as much as a man does",
+      "nature on our planet",
+      "had studied harder",
+      "had achieved more"
+    ],
+    "e003": [
+      "Abigail",
+      "John",
+      "Keir",
+      "Abigail",
+      "Annie and Josh"
+    ]
+  },
+  "p125": {
+    "e010": [
+      "F",
+      "A",
+      "B",
+      "D",
+      "E",
+      "C"
+    ],
+    "e012": []
+  },
+  "p122": {
+    "e003": [
+      "do",
+      "do",
+      "make",
+      "make",
+      "do",
+      "make",
+      "make",
+      "do"
+    ],
+    "e001": [
+      "make",
+      "do"
+    ],
+    "e006": [
+      "T",
+      "F",
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F"
+    ],
+    "e002": [
+      "an exam",
+      "your homework",
+      "research",
+      "the shopping",
+      "a favour",
+      "a cup of tea",
+      "a comment",
+      "a choice",
+      "a mistake",
+      "a promise",
+      "a profit"
+    ]
+  },
+  "p129": {
+    "e011": []
+  },
+  "p130": {
+    "e008": [
+      "unemployment",
+      "let",
+      "ourselves",
+      "were",
+      "a political football",
+      "one another",
+      "made",
+      "get",
+      "hot air",
+      "aren't",
+      "doing"
+    ],
+    "e003": [
+      "were",
+      "'d studied",
+      "could have",
+      "'d chosen",
+      "hadn't attended"
+    ],
+    "e007": [
+      "I wish I had been more careful",
+      "If only I had made better choices",
+      "I feel awful about it",
+      "I messed up",
+      "I shouldn't have done that",
+      "there's no excuse for it"
+    ],
+    "e002": [
+      "Make",
+      "do",
+      "make",
+      "do",
+      "do",
+      "make"
+    ],
+    "e004": [
+      "one another",
+      "himself",
+      "each other",
+      "myself",
+      "yourself"
+    ],
+    "e001": [
+      "inequality / discrimination",
+      "petition",
+      "party",
+      "politics",
+      "Minister",
+      "discrimination / inequality"
+    ],
+    "e005": [
+      "She got me to buy her lunch.",
+      "My parents won't let me go abroad alone.",
+      "Did your teacher make you do the Maths exercise on your own?",
+      "Your brother always gets me to lend him my stuff.",
+      "The coach made the players practise extra hours."
+    ],
+    "e006": [
+      "isn't it",
+      "can they",
+      "doesn't it",
+      "shall we",
+      "didn't they",
+      "haven't they"
+    ]
+  },
+  "p133": {
+    "e008": [
+      "caterpillar",
+      "insect / bug",
+      "scorpion",
+      "cow",
+      "rat",
+      "spider",
+      "horse"
+    ],
+    "e009": [
+      "C has gone from 1.6 to 8 billion in the last 120 years.",
+      "A food sources which don’t damage the environment.",
+      "A The gases released by cows.",
+      "C More than 2,000.",
+      "B They taste a little like fish.",
+      "C less expensive and more environmentally friendly."
+    ]
+  },
+  "p131": {
+    "e003": [
+      "the",
+      "who",
+      "himself",
+      "by",
+      "is",
+      "of"
+    ]
+  },
+  "p134": {
+    "e002": [
+      "F",
+      "The following year, the",
+      "T",
+      "Henry McLeish, a Minister",
+      "T",
+      "It is committed to / The MSYPs work together",
+      "F",
+      "All of the requests",
+      "T",
+      "This year, MSYPs have",
+      "T",
+      "You will be trained",
+      "F",
+      "Young people living in",
+      "F",
+      "Voting will vary across"
+    ]
+  },
+  "p135": {
+    "e004": [
+      "D poor people and minorities.",
+      "B climate and racial justice.",
+      "C eight years old.",
+      "C both an instrument for change and a positive source of mental health.",
+      "A the construction of a coal terminal.",
+      "B in a medical field."
+    ]
+  },
+  "p138": {
+    "e004": []
+  },
+  "p136": {
+    "e002": [
+      "2 The volume of packaging that supermarkets produce."
+    ],
+    "e001": [],
+    "e003": [
+      "waste",
+      "40 / forty",
+      "landfill",
+      "reduce",
+      "1.5 billion",
+      "plastic",
+      "recycling"
+    ]
+  },
+  "p141": {
+    "e004": [
+      "T",
+      "T",
+      "F",
+      "T",
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F"
+    ],
+    "e005": [
+      "glow",
+      "suitable",
+      "reside",
+      "The spookiest",
+      "creaking",
+      "gathering",
+      "chill you to the bone"
+    ],
+    "e002": [
+      "Pluckley",
+      "Kent",
+      "Pinnock Bridge",
+      "Pluckley",
+      "Church of Saint Nicholas",
+      "Pluckley",
+      "The Ancient Ram Inn",
+      "Gloucestershire"
+    ]
+  },
+  "p140": {
+    "e001": [
+      "2 These places are frequented by ghosts."
+    ]
+  },
+  "p139": {
+    "e003": [
+      "stomach ache",
+      "temperature",
+      "runny nose",
+      "flu",
+      "fizzy drinks",
+      "three times / 3 times",
+      "eye drops"
+    ],
+    "e002": [
+      "C In Gibbstown, New Jersey.",
+      "C To study marine life.",
+      "B By guiding the first group of all-female aquanauts.",
+      "A Over 7,000 hours.",
+      "B Raising awareness about Hope Spots."
+    ]
+  },
+  "p155": {
+    "e002": [
+      "has",
+      "better",
+      "for",
+      "least",
+      "ought / need / have",
+      "who / that"
+    ],
+    "e001": [
+      "chat",
+      "asked",
+      "browses",
+      "time",
+      "for",
+      "sci-fi"
+    ]
+  },
+  "p152": {
+    "e001": [
+      "B for students aged 12 to 15.",
+      "C to produce long-lasting benefits for those communities.",
+      "A to learn by doing while exploring the world.",
+      "D basic English through educational games.",
+      "D Because they can learn about different cultures, help local communities, meet new people and have fun doing plenty of free-time activities."
+    ]
+  },
+  "p159": {
+    "e001": [
+      "A both Jason and Mark got.",
+      "C recent thefts in the school.",
+      "B She thinks looking after a dog is boring.",
+      "B The boy likes the idea but the girl doesn’t.",
+      "C She is apprehensive about it.",
+      "C It is an act of vandalism."
+    ]
+  },
+  "p157": {
+    "e001": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "p160": {
+    "e001": [
+      "leaflet",
+      "goal",
+      "an effort",
+      "slogan",
+      "advertisements",
+      "billboard"
+    ],
+    "e002": [
+      "A help people affected by health issues.",
+      "B It can help reduce pain and stress.",
+      "A Dogs and cats are most frequently chosen.",
+      "B Its age, size, breed and behaviour.",
+      "C older dogs.",
+      "B they are friendly, calm and enjoy being touched by strangers."
+    ]
+  },
+  "p148": {
+    "e001": [
+      "C Sandra asks Mark to come back home before 7 p.m.",
+      "A limit the time you spend on the computer.",
+      "B is open every day but it is closed in the morning.",
+      "A Tim wants to go to the cinema at 7 p.m.",
+      "B Students mustn’t use books during the exam, just a pen or a pencil."
+    ]
+  },
+  "p150": {
+    "e001": [
+      "G",
+      "C",
+      "H",
+      "B",
+      "D"
+    ]
+  },
+  "p154": {
+    "e001": [
+      "F",
+      "H",
+      "A",
+      "D",
+      "C"
+    ]
+  },
+  "p170": {
+    "e016": [
+      "driving licence",
+      "used to find",
+      "came",
+      "was doing",
+      "a row",
+      "nothing",
+      "had",
+      "everyone",
+      "went out on",
+      "got",
+      "drove",
+      "young man",
+      "depend"
+    ],
+    "e015": [
+      "something",
+      "Nothing",
+      "somewhere",
+      "everywhere",
+      "anyone / anybody",
+      "someone / somebody",
+      "everyone / everybody",
+      "anywhere"
+    ],
+    "e014": [
+      "anyone",
+      "something",
+      "anywhere",
+      "Nobody",
+      "nothing",
+      "everyone",
+      "anything",
+      "somewhere"
+    ]
+  },
+  "p169": {
+    "e010": [
+      "went on a date",
+      "head over heels",
+      "get to know",
+      "Go out with",
+      "trust",
+      "cheat",
+      "split up",
+      "argue",
+      "fall for"
+    ],
+    "e012": [
+      "When I was 5 years old, my grandparents took me to Disneyland once.",
+      "correct",
+      "Lisa and Chloe love going clubbing. They go every Friday night.",
+      "'Mrs Gardner didn't use to look so sad.' 'I think it's because she and her husband got divorced last year.'",
+      "I usually skate a lot, especially now that there's a new skatepark close to my house.",
+      "correct"
+    ],
+    "e009": [
+      "crush",
+      "out",
+      "date",
+      "for / for someone / in love",
+      "row",
+      "up / up with",
+      "make"
+    ],
+    "e011": [
+      "used to go out",
+      "used to drive",
+      "Did you use to date",
+      "didn't use to live",
+      "Did your sister use to have",
+      "didn't use to like",
+      "used to quarrel",
+      "didn't use to wear"
+    ]
+  },
+  "p168": {
+    "e005": [
+      "'m having",
+      "'re",
+      "'re travelling",
+      "isn't enjoying",
+      "gets",
+      "want",
+      "say",
+      "Do you think"
+    ],
+    "e007": [
+      "What did you say to Tina when she apologised to you?",
+      "While we were travelling by train through Switzerland, we admired the beautiful landscape.",
+      "Did you see the doctor yesterday?",
+      "No, when I called him he didn't answer.",
+      "Pete wasn't doing anything wrong when the PE teacher got angry at him.",
+      "Was Kate at school when she met her boyfriend?",
+      "They saw a giant turtle while they were swimming."
+    ],
+    "e008": [
+      "found",
+      "got up",
+      "was sitting",
+      "wasn't wearing",
+      "took",
+      "gave",
+      "weren't keen",
+      "fell",
+      "'s",
+      "loves",
+      "keeps",
+      "'s following",
+      "'s dusting"
+    ],
+    "e006": [
+      "was doing",
+      "was revising",
+      "were walking",
+      "ran",
+      "wasn't copying",
+      "sent",
+      "were you doing",
+      "broke out",
+      "Did you know",
+      "arrived",
+      "were decorating",
+      "did you react",
+      "started",
+      "didn't meet"
+    ]
+  },
+  "p167": {
+    "e002": [
+      "toddler",
+      "child",
+      "start school",
+      "teenager",
+      "fall in love",
+      "young",
+      "graduate",
+      "middle-aged",
+      "have children",
+      "pensioner",
+      "retire"
+    ],
+    "e001": [
+      "getting",
+      "leaving",
+      "got",
+      "start",
+      "getting",
+      "getting",
+      "starting",
+      "start"
+    ],
+    "e004": [
+      "'m going",
+      "do you have",
+      "are you cooking",
+      "chats",
+      "isn't clearing up",
+      "is Nick studying",
+      "don't often work out",
+      "loves",
+      "don't understand"
+    ],
+    "e003": [
+      "retired",
+      "childhood",
+      "started",
+      "teenager",
+      "started",
+      "a degree",
+      "got engaged",
+      "fell in love",
+      "got married",
+      "pregnant",
+      "wedding",
+      "was born"
+    ]
+  },
+  "p172": {
+    "e021": [
+      "Isla",
+      "Leo",
+      "Olivia",
+      "Oscar",
+      "Olivia",
+      "Isla",
+      "Oscar",
+      "Leo"
+    ],
+    "e022": [
+      "the Maldives",
+      "into the ocean",
+      "at university",
+      "adventure",
+      "4th August / the fourth of August / 4 August / August 4th / August 4",
+      "part-time job",
+      "farm",
+      "7 / seven"
+    ]
+  },
+  "p179": {
+    "e013": [
+      "They haven't chosen a new name for their farm yet.",
+      "How long has Alan been travelling around the world?",
+      "For months.",
+      "I'm so tired. I've been running errands all afternoon.",
+      "We've tried three car parks and there's no space.",
+      "They've lived in this neighbourhood for two years.",
+      "Has your sister been here for two months?",
+      "correct"
+    ],
+    "e016": [
+      "polluted",
+      "safe",
+      "multicultural",
+      "vibrant",
+      "unpolluted",
+      "walkable",
+      "historic",
+      "cultural",
+      "chaotic",
+      "stressful",
+      "noisy",
+      "peaceful",
+      "green"
+    ],
+    "e015": [
+      "can't be in that direction",
+      "might move to the suburbs / may move to the suburbs / could move to the suburbs",
+      "must be stressful",
+      "may not open at 9 a.m / might not open at 9 a.m / may not open at 9 a.m. / might not open at 9 a.m.",
+      "can't be on sale"
+    ],
+    "e014": [
+      "might arrive / may arrive / could arrive",
+      "must be",
+      "may not go / might not go",
+      "can't be",
+      "must date",
+      "can't be",
+      "might arrive / may arrive / could arrive"
+    ],
+    "e012": [
+      "'s had",
+      "'ve been visiting",
+      "have we seen",
+      "'s read",
+      "Have you been cooking",
+      "has he been watching",
+      "haven't decided",
+      "'s rained",
+      "'s been snowing",
+      "'ve just built"
+    ]
+  },
+  "p178": {
+    "e007": [
+      "since",
+      "for",
+      "for",
+      "for",
+      "since",
+      "for",
+      "since",
+      "since"
+    ],
+    "e006": [
+      "C",
+      "D",
+      "A",
+      "G",
+      "B"
+    ],
+    "e010": [
+      "fountain",
+      "monument",
+      "statue",
+      "square",
+      "tower",
+      "art gallery",
+      "castle",
+      "cathedral",
+      "concert hall",
+      "museum",
+      "palace",
+      "theatre"
+    ],
+    "e008": [
+      "'s been living",
+      "for",
+      "'s been thinking",
+      "have been telling",
+      "'s been driving",
+      "since",
+      "have been waiting",
+      "for",
+      "'s been calling",
+      "has she been doing"
+    ],
+    "e011": [
+      "castle",
+      "concert hall",
+      "palace",
+      "fountain",
+      "monument",
+      "cathedral",
+      "square",
+      "art gallery / museum",
+      "statue"
+    ],
+    "e009": [
+      "'s been baking pies / 's been baking cakes / 's been baking four cakes",
+      "'s been helping her",
+      "'s been putting up the decorations",
+      "have been painting the fence",
+      "have been organising some games"
+    ]
+  },
+  "p182": {
+    "e023": [
+      "F",
+      "T",
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "T",
+      "F"
+    ]
+  },
+  "p180": {
+    "e017": [
+      "’ve lived",
+      "hustle and bustle",
+      "can’t",
+      "countryside",
+      "for",
+      "facilities",
+      "streets",
+      "around",
+      "How many times",
+      "must"
+    ]
+  },
+  "p181": {
+    "e020": [
+      "I am writing this report",
+      "The most important aspect",
+      "Although",
+      "Most of",
+      "However",
+      "To sum up"
+    ],
+    "e019": [
+      "Although",
+      "However",
+      "although",
+      "Although",
+      "However"
+    ]
+  },
+  "p183": {
+    "e024": [
+      "C can do different activities.",
+      "B Ireland.",
+      "A moved to the countryside for a period of time.",
+      "B a professional supervised them.",
+      "C enjoyed the programme."
+    ]
+  },
+  "p177": {
+    "e002": [
+      "law court",
+      "post office",
+      "fire station",
+      "petrol station",
+      "railway station",
+      "playground"
+    ],
+    "e005": [
+      "Mary's been walking round the village green all morning.",
+      "How long have you been living here?",
+      "They've been repairing the building.",
+      "We haven't been reading; we've been playing with our grandchildren in the playground.",
+      "Has it been raining all day?"
+    ],
+    "e001": [
+      "neighbourhood",
+      "pedestrian area",
+      "zone",
+      "outskirts",
+      "suburbs",
+      "residential area",
+      "village green",
+      "field",
+      "countryside",
+      "cottage",
+      "farm",
+      "village hall",
+      "petrol station",
+      "multistorey car park",
+      "railway station",
+      "playground",
+      "fire station",
+      "post office",
+      "law court",
+      "office block",
+      "skyscraper"
+    ],
+    "e004": [
+      "village",
+      "village hall",
+      "post office",
+      "village green",
+      "cottages",
+      "fences",
+      "fields",
+      "farms",
+      "countryside",
+      "petrol station"
+    ],
+    "e003": [
+      "skyscraper",
+      "outskirts",
+      "multistorey car park",
+      "playground",
+      "pedestrian zone",
+      "office block",
+      "fire station",
+      "residential area"
+    ]
+  },
+  "p189": {
+    "e010": [
+      "cash machine",
+      "bank transfer",
+      "debit",
+      "credit",
+      "prepaid",
+      "mobile payment",
+      "coins",
+      "banknotes",
+      "notes",
+      "pound",
+      "euro",
+      "dollar"
+    ],
+    "e007": [],
+    "e008": [
+      "tend to buy a lot of clothes which they don't wear. / tend to buy a lot of clothes they don't wear.",
+      "that guy whose sister I dated once?",
+      "Jim back the money he lent her? / Jim back the money which he lent her?",
+      "the hotel where we stayed last spring for our summer holidays.",
+      "Julie to marry me when we come back from our holiday.",
+      "whom we need to speak to about our project. / who we need to speak to about our project. / we need to speak to about our project."
+    ],
+    "e006": [
+      "where",
+      "who / that / whom / -",
+      "when",
+      "which / that / -",
+      "who / that",
+      "which / that",
+      "whose",
+      "which / that / -"
+    ]
+  },
+  "p192": {
+    "e023": [
+      "F",
+      "T",
+      "F",
+      "T",
+      "F",
+      "T",
+      "T",
+      "F"
+    ],
+    "e020": [
+      "Sir or Madam",
+      "complain",
+      "prepaid card / debit card / credit card",
+      "To begin with",
+      "seemed to be / was",
+      "In addition to this",
+      "Moreover",
+      "was damaged / was broken",
+      "Lastly",
+      "disappointed",
+      "returning",
+      "full refund / refund"
+    ]
+  },
+  "p188": {
+    "e002": [
+      "borrow",
+      "owe",
+      "afford",
+      "lend",
+      "pay",
+      "donate",
+      "earns",
+      "spend",
+      "save",
+      "waste",
+      "take out / withdraw",
+      "charge"
+    ],
+    "e004": [],
+    "e003": [
+      "flat broke",
+      "saving their money for a rainy day",
+      "go Dutch",
+      "time is money"
+    ],
+    "e005": [
+      "who",
+      "–",
+      "where",
+      "which",
+      "whose",
+      "when"
+    ],
+    "e001": [
+      "earn",
+      "save",
+      "borrow",
+      "withdraw",
+      "take out",
+      "donate",
+      "owe",
+      "lend",
+      "pay",
+      "waste",
+      "spend"
+    ]
+  },
+  "p190": {
+    "e011": [
+      "coins",
+      "dollar",
+      "credit",
+      "prepaid",
+      "banknotes / notes",
+      "euros",
+      "pound",
+      "debit",
+      "ATMs / Cash machines",
+      "bank transfer",
+      "mobile payments"
+    ],
+    "e015": [
+      "Bank transfers, which you can also send online, are a useful way to pay large sums of money.",
+      "The euro, which was introduced in January 2002, is now used in 20 countries.",
+      "Last summer I visited Sicily, where I used to live as a child.",
+      "Raj walks to school with his best friend Amy, who lives next door.",
+      "correct",
+      "Queen Elisabeth, whose portrait is on old British banknotes and coins, died in 2022."
+    ],
+    "e013": [
+      "when",
+      "who",
+      "which",
+      "where",
+      "whose",
+      "whom"
+    ],
+    "e012": [
+      "who",
+      "when",
+      "whose",
+      "which",
+      "where",
+      "which"
+    ]
+  },
+  "p191": {
+    "e018": [
+      "where",
+      "banknotes",
+      "cash",
+      "mobile payments",
+      "prepaid",
+      "which",
+      "which",
+      "that",
+      "–",
+      "rainy",
+      "whose",
+      "borrows"
+    ],
+    "e017": [
+      "dear",
+      "inexpensive",
+      "useless",
+      "overpriced",
+      "damaged",
+      "discounted",
+      "broken",
+      "faulty"
+    ],
+    "e016": [
+      "ND",
+      "Helen has finally got her promotion, which will involve a pay rise.",
+      "D",
+      "a friend who I met at scout camp. / a friend whom I met at scout camp. / a friend that I met at scout camp.",
+      "ND",
+      "My English teacher, who is the best I've ever had, gave me a good mark for my essay.",
+      "D",
+      "to give me back the money which I lent her last week. / to give me back the money that I lent her last week."
+    ]
+  },
+  "p198": {
+    "e002": [
+      "lips",
+      "forehead",
+      "neck",
+      "foot",
+      "head",
+      "ankle",
+      "cheek",
+      "thumb",
+      "back",
+      "arm",
+      "knees"
+    ],
+    "e004": [
+      "D",
+      "A",
+      "G",
+      "B",
+      "F"
+    ],
+    "e001": [
+      "eyebrow",
+      "nose",
+      "cheek",
+      "lip",
+      "chin",
+      "neck",
+      "chest",
+      "stomach",
+      "back",
+      "arm",
+      "waist",
+      "shoulder",
+      "elbow",
+      "wrist",
+      "hip",
+      "hand",
+      "finger",
+      "thumb",
+      "leg",
+      "thigh",
+      "calf",
+      "knee",
+      "ankle",
+      "foot",
+      "toe"
+    ],
+    "e003": [
+      "Nod",
+      "cross",
+      "twisted",
+      "waving",
+      "bend",
+      "waved"
+    ]
+  },
+  "p200": {
+    "e014": [
+      "slept",
+      "'d feel / might feel / could feel",
+      "would they do / might they do / could they do",
+      "found",
+      "'d practise / might practise / could practise",
+      "didn't have",
+      "were",
+      "'d test",
+      "'d have / might have / could have",
+      "stopped",
+      "wouldn't use",
+      "had"
+    ],
+    "e012": [
+      "has caught / has got",
+      "recovered from / got over",
+      "Do you suffer from an / Do you have an",
+      "have / suffer from",
+      "recover / get better"
+    ],
+    "e013": [
+      "would stay",
+      "didn’t feel",
+      "would you do",
+      "gave",
+      "were",
+      "would rest",
+      "would come",
+      "knew",
+      "Would",
+      "told"
+    ],
+    "e011": [
+      "bruise",
+      "stomach ache",
+      "chills",
+      "cough",
+      "backache",
+      "runny",
+      "heat",
+      "sore throat"
+    ]
+  },
+  "p201": {
+    "e018": [
+      "pills / painkillers",
+      "eye drops",
+      "cream",
+      "cough syrup",
+      "bandage",
+      "plasters",
+      "ice pack"
+    ],
+    "e016": [
+      "They ought to call an ambulance.",
+      "You shouldn't work so much.",
+      "You'd better let him rest.",
+      "How about going for a walk?",
+      "You'd better stay inside, or you'll catch a cold.",
+      "If I were you, I'd buy him a new helmet."
+    ],
+    "e015": [
+      "should",
+      "ought not to",
+      "had",
+      "ought to",
+      "Should I",
+      "How about",
+      "should",
+      "don’t you try",
+      "Drink"
+    ]
+  },
+  "p199": {
+    "e008": [
+      "I'll drink herbal tea when I go to bed tonight.",
+      "They'll have dry eyes if they don't stop using the tablet for so long. / They'll have dry eyes unless they stop using the tablet for so long.",
+      "If you heat water, it evaporates.",
+      "We'll be happy if we can sleep until late.",
+      "correct",
+      "When the sun sets, it gets dark very quickly."
+    ],
+    "e005": [
+      "don't have",
+      "feel",
+      "ZC",
+      "will study",
+      "keep",
+      "FC",
+      "Will you stop",
+      "tells",
+      "FC",
+      "stops",
+      "'ll have",
+      "won't use",
+      "FC",
+      "Do you need",
+      "practise",
+      "ZC",
+      "doesn't change",
+      "won't be able",
+      "FC"
+    ],
+    "e009": [
+      "your life will improve",
+      "you start believing in yourself",
+      "do it anyway",
+      "you stop listening to other people's words",
+      "you keep active"
+    ],
+    "e007": [
+      "will start",
+      "arrive",
+      "will wait",
+      "arrives",
+      "finish",
+      "'ll buy",
+      "won't leave",
+      "have",
+      "Will he go",
+      "stops",
+      "send",
+      "'ll do"
+    ],
+    "e006": [
+      "Unless we hurry, we'll arrive late at the lesson with our personal trainer.",
+      "If Khloe doesn't have a break, she won't be able to focus.",
+      "Some foods can't be eaten unless you cook them.",
+      "Unless it's urgent, Joshua and Meg don't pick up the phone.",
+      "Will he stay if he isn't very tired?",
+      "If you aren't 18, you can't enter this club."
+    ]
+  },
+  "p203": {
+    "e022": [
+      "Speaker 2",
+      "Speaker 3",
+      "Speaker 1",
+      "Speaker 2",
+      "Speaker 4",
+      "Speaker 3",
+      "Speaker 1",
+      "Speaker 4"
+    ]
+  },
+  "p202": {
+    "e019": [
+      "head",
+      "If / When",
+      "recover",
+      "crossing",
+      "would",
+      "wave",
+      "had",
+      "will / 'll",
+      "unless"
+    ]
+  },
+  "p204": {
+    "e026": [
+      "C",
+      "A",
+      "E",
+      "B"
+    ]
+  },
+  "p205": {
+    "e001": [
+      "D",
+      "G",
+      "B",
+      "F",
+      "C"
+    ]
+  },
+  "p206": {
+    "e002": [
+      "C mobile payments aren’t hard to use.",
+      "B You didn’t have to use cash.",
+      "B There was plenty of money in his account.",
+      "A Using a prepaid card is safe.",
+      "B cash is more satisfying than plastic money.",
+      "C It’s fast and easy to use."
+    ]
+  },
+  "p213": {
+    "e011": [
+      "evidence",
+      "guilty",
+      "release",
+      "jury",
+      "trial",
+      "judge",
+      "sentence",
+      "defendant / suspect",
+      "witness",
+      "prison"
+    ],
+    "e012": [
+      "have escaped",
+      "have caught",
+      "hadn't",
+      "have solved",
+      "hadn't installed",
+      "would have visited"
+    ],
+    "e010": [
+      "judge",
+      "trial",
+      "question",
+      "suspect",
+      "witnesses",
+      "jury",
+      "evidence",
+      "sentence",
+      "defendant",
+      "guilty",
+      "prison",
+      "release"
+    ],
+    "e013": [
+      "The hijacker would have taken his gun on board the plane if the metal detector hadn't gone off.",
+      "We wouldn't have caught the thief if the shop hadn't had security cameras.",
+      "If the weather hadn't been so bad, we would have gone for a walk.",
+      "If I hadn't used a strong password, the hacker would have stolen my data.",
+      "Sam wouldn't have missed his train if he had got up earlier.",
+      "If the suspect hadn't spilt the beans, the police wouldn't have arrested him."
+    ]
+  },
+  "p212": {
+    "e008": [
+      "had finished cleaning some of the city walls, graffiti artists drew on them again.",
+      "didn't turn on the TV until my favourite film had begun.",
+      "had disappeared by the time she finished her classes.",
+      "had created a strong password before she set up her device.",
+      "had received a lot of money from his victim before the police arrested him."
+    ],
+    "e007": [
+      "When the fire broke out, the workers left the building very quickly.",
+      "Vandals spray painted the town hall last night.",
+      "Luckily, the bank robbers hadn't got away when the police arrived.",
+      "correct",
+      "By the time the car alarm went off, the car thief had run away.",
+      "The detective suddenly realised that one of the suspects had lied.",
+      "Mark arrived home and started to cook dinner."
+    ],
+    "e006": [
+      "opened",
+      "had pickpocketed",
+      "Had Pinkerton already solved",
+      "opened",
+      "received",
+      "reported",
+      "Did they arrive",
+      "had stolen",
+      "didn't take",
+      "'d forgotten",
+      "had collected",
+      "wasn't",
+      "Had Josh ever fallen",
+      "met",
+      "had passed",
+      "went out"
+    ],
+    "e005": [
+      "'d locked the windows.",
+      "'d set the outdoor lights on a timer.",
+      "hadn't hidden her valuable objects.",
+      "'d given the spare key to her best friend.",
+      "'d checked the alarm system.",
+      "hadn't told the neighbours to water the plants in the garden.",
+      "hadn't closed the curtains."
+    ],
+    "e009": [
+      "he called the police",
+      "'d been to the park",
+      "had seen a man spray painting a bench",
+      "looked",
+      "he'd been on holiday in Chicago",
+      "went back to the car park",
+      "had stolen her car",
+      "couldn't find"
+    ]
+  },
+  "p211": {
+    "e004": [
+      "got away with it",
+      "prevent",
+      "confessed to",
+      "broke into",
+      "accused",
+      "commit"
+    ],
+    "e002": [
+      "crimes against a person or group of people",
+      "crimes against property",
+      "crimes against property",
+      "crimes against property",
+      "crimes against property",
+      "crimes against a person or group of people",
+      "crimes against property",
+      "crimes against property",
+      "crimes against a person or group of people",
+      "crimes against a person or group of people",
+      "crimes against a person or group of people",
+      "crimes against a person or group of people",
+      "crimes against a person or group of people"
+    ],
+    "e003": [
+      "hijackers",
+      "hackers",
+      "drug dealer",
+      "vandalism",
+      "mugger",
+      "pickpocketed / stole / has pickpocketed / has stolen",
+      "burglars",
+      "murder / murders"
+    ],
+    "e001": [
+      "B",
+      "J",
+      "I",
+      "G",
+      "F",
+      "H",
+      "A",
+      "D",
+      "C",
+      "M",
+      "L",
+      "K",
+      "E"
+    ]
+  },
+  "p214": {
+    "e017": [
+      "had been",
+      "became",
+      "will",
+      "existed",
+      "pickpocketed",
+      "mugging",
+      "murdered",
+      "committed",
+      "have mistaken",
+      "witnesses",
+      "evidence",
+      "jury"
+    ],
+    "e014": [
+      "Aisha had set her alarm, she wouldn't have arrived late at school.",
+      "the guard hadn't left the cell door open, the prisoner wouldn't have broken out of jail.",
+      "the murderer hadn't worn gloves, the inspector would have found fingerprints on the crime scene.",
+      "he hadn't had a lot of homework, Danny would have gone to the gym.",
+      "the supermarket hadn't closed early, we would have bought food for our dinner."
+    ],
+    "e015": [
+      "hadn't caught",
+      "will win / 'll win",
+      "would you do",
+      "would have stolen",
+      "isn't",
+      "would report",
+      "commits"
+    ]
+  },
+  "p216": {
+    "e022": [
+      "classic crime",
+      "modern-day crime",
+      "Murder on the Orient Express",
+      "A Good Girl's Guide to Murder",
+      "Agatha Christie",
+      "Holly Jackson",
+      "Hercule Poirot",
+      "Pippa"
+    ]
+  },
+  "p217": {
+    "e025": [
+      "T",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F",
+      "T",
+      "F"
+    ]
+  },
+  "p224": {
+    "e013": [
+      "public service announcement (PSA) / public service announcement / public awareness campaign / PSA",
+      "commercial",
+      "billboard",
+      "launch",
+      "advert / ad",
+      "persuade",
+      "banner ad",
+      "flyer / leaflet",
+      "brand"
+    ],
+    "e010": [
+      "We've already renewed our subscription to the magazine. We like its articles",
+      "I'm studying and I can't listen to the radio today",
+      "I'll watch the news when I arrive home",
+      "We downloaded a podcast about this topic yesterday",
+      "Don't disturb us now. We're covering an important event"
+    ],
+    "e012": [
+      "commercial",
+      "banner",
+      "billboard",
+      "leaflet",
+      "flyer",
+      "public awareness campaign",
+      "public service announcement",
+      "advertise",
+      "promote",
+      "persuade",
+      "influence",
+      "launch"
+    ]
+  },
+  "p223": {
+    "e005": [
+      "told",
+      "said",
+      "tell",
+      "said",
+      "telling",
+      "told",
+      "told",
+      "says"
+    ],
+    "e009": [
+      "Monica told me she was trying to book a holiday for the following month.",
+      "Charles said they didn't broadcast his favourite series any more.",
+      "The article said robbers had broken into the bank.",
+      "The man told us he would watch the interview. / The man told us he'd watch the interview.",
+      "Sandra told me I might be right about the report. / Sandra said I might be right about the report."
+    ],
+    "e006": [
+      "her",
+      "that",
+      "that day",
+      "the following month",
+      "there",
+      "the day before",
+      "that evening"
+    ],
+    "e007": [
+      "wouldn't sell",
+      "wanted",
+      "were going to get / were getting",
+      "could play",
+      "hadn't seen"
+    ],
+    "e008": [
+      "he had been late the day before and he hadn't seen them / he had been late the previous day and he hadn't seen them",
+      "her mum was going to buy her a new tablet that week",
+      "he could write about what was happening there / she could write about what was happening there",
+      "he had already heard those stories",
+      "to turn the TV on then / to turn the TV on at that moment / to turn the TV on at that time",
+      "Mary thought it was important",
+      "I had to help him that night / I had to help him that evening"
+    ]
+  },
+  "p225": {
+    "e018": [
+      "Where's your password / Where is your password",
+      "Have you seen my sunglasses",
+      "How will he react to the news",
+      "What did you do to promote the brand last month",
+      "Do you like these commercials"
+    ],
+    "e017": [
+      "Why are you looking for a job?",
+      "Do you know the job is flexible?",
+      "Are you also happy to work on rainy days?",
+      "Are you a fit person?",
+      "What sports do you do?",
+      "When would you like to start?"
+    ],
+    "e019": [
+      "media",
+      "goes",
+      "good",
+      "brand",
+      "if / whether",
+      "had",
+      "told",
+      "know",
+      "say / explain"
+    ],
+    "e016": [
+      "he was looking for a job",
+      "he knew the job was flexible",
+      "he was also happy to work on rainy days",
+      "he was a fit person",
+      "sports he did",
+      "he'd like to start"
+    ],
+    "e014": [
+      "if / whether",
+      "what",
+      "where",
+      "if / whether",
+      "when",
+      "if / whether",
+      "how many"
+    ]
+  },
+  "p226": {
+    "e021": [
+      "because of",
+      "Since / As",
+      "Therefore",
+      "Since / As",
+      "because / since / as",
+      "Therefore"
+    ],
+    "e022": [
+      "However",
+      "because",
+      "since",
+      "because of",
+      "Therefore"
+    ]
+  },
+  "p222": {
+    "e001": [
+      "television",
+      "magazine",
+      "radio",
+      "social media",
+      "newspaper",
+      "podcast",
+      "fake",
+      "breaking",
+      "latest",
+      "good",
+      "bad",
+      "spread",
+      "receive",
+      "react",
+      "cover",
+      "hear",
+      "interview",
+      "report",
+      "interview",
+      "report",
+      "current affairs"
+    ],
+    "e002": [
+      "headline",
+      "source",
+      "interview",
+      "current affairs",
+      "interview",
+      "report",
+      "the press",
+      "broadcast",
+      "report",
+      "broadcast"
+    ],
+    "e004": [
+      "spread",
+      "react",
+      "cover",
+      "receive",
+      "hear",
+      "is",
+      "heard"
+    ],
+    "e003": [
+      "good news / good",
+      "the latest / the latest news / breaking / breaking news",
+      "breaking / breaking news",
+      "bad / bad news",
+      "fake / fake news"
+    ]
+  },
+  "p227": {
+    "e025": [
+      "C Texas.",
+      "B acting in a commercial.",
+      "B creates unusual stories and scripts.",
+      "A needed more black voices.",
+      "A the importance of education for young girls."
+    ]
+  },
+  "p234": {
+    "e004": [
+      "connect",
+      "turn off",
+      "delete",
+      "plug in",
+      "down",
+      "browse",
+      "download",
+      "deleted"
+    ],
+    "e007": [
+      "Specialised engineers will perfect chatbots very soon.",
+      "Your personal data can be stolen by hackers.",
+      "Has the material to do our research been downloaded? / Has the material to do our research been downloaded by anybody?",
+      "The teacher caught Jack using his smartphone during a test.",
+      "You wear earbuds inside the ear so they can be uncomfortable. / People wear earbuds inside the ear so they can be uncomfortable.",
+      "had already been connected to the TV. / had already been connected to the TV by Dad. / had already been connected by Dad to the TV."
+    ],
+    "e006": [
+      "was completed",
+      "hasn't been cleared",
+      "'ll be promoted",
+      "'s being fixed",
+      "Are you often called",
+      "have just been invented"
+    ],
+    "e009": [
+      "will be limited / is going to be limited",
+      "have been influenced",
+      "'s affected / 's being affected / 's been affected",
+      "'s achieved / will be achieved / 's going to be achieved / can be achieved",
+      "is being produced",
+      "'s installed",
+      "won't be allowed / isn't going to be allowed",
+      "were introduced"
+    ],
+    "e008": [],
+    "e005": [
+      "'s being",
+      "'s",
+      "was",
+      "Will teachers be / Are teachers going to be",
+      "be",
+      "have been"
+    ]
+  },
+  "p233": {
+    "e003": [
+      "monitor",
+      "screen",
+      "keyboard",
+      "printer",
+      "battery",
+      "speaker",
+      "pen drive",
+      "memory stick",
+      "earbuds",
+      "headphones",
+      "mouse",
+      "mat",
+      "plug",
+      "cable",
+      "powerbank",
+      "charger",
+      "upload",
+      "download",
+      "scroll",
+      "down",
+      "charge",
+      "browse",
+      "turn",
+      "off",
+      "install",
+      "uninstall",
+      "plug",
+      "unplug",
+      "connect",
+      "delete"
+    ],
+    "e001": [
+      "battery",
+      "speaker",
+      "powerbank",
+      "headphones",
+      "USB-C cable",
+      "screen",
+      "printer",
+      "pen drive / memory stick",
+      "monitor",
+      "keyboard",
+      "mouse mat",
+      "earbuds",
+      "charger",
+      "plug"
+    ],
+    "e002": [
+      "charger",
+      "battery",
+      "monitor / screen",
+      "mouse mat",
+      "headphones",
+      "speaker",
+      "keyboard",
+      "pen drive / memory stick",
+      "printer",
+      "plug",
+      "powerbank"
+    ]
+  },
+  "p239": {
+    "e027": [
+      "F",
+      "T",
+      "F",
+      "F",
+      "T",
+      "T",
+      "T",
+      "F"
+    ]
+  },
+  "p237": {
+    "e020": [
+      "being",
+      "invention",
+      "taught",
+      "create",
+      "improve",
+      "experiment",
+      "research",
+      "work out",
+      "have",
+      "are"
+    ]
+  },
+  "p235": {
+    "e010": [
+      "research",
+      "observation",
+      "analysis",
+      "invention",
+      "creation",
+      "discovery",
+      "development",
+      "product"
+    ],
+    "e013": [
+      "was shown",
+      "was shown",
+      "are being sent",
+      "'s being sent",
+      "Have you just been brought",
+      "Has a rose just been brought",
+      "were being taught",
+      "was being taught",
+      "wasn't offered",
+      "wasn't offered",
+      "might be sold",
+      "might be sold"
+    ],
+    "e012": [
+      "the discovery of penicillin",
+      "are currently researching",
+      "The production",
+      "development",
+      "invented",
+      "observe",
+      "'d improved"
+    ],
+    "e011": [
+      "discover",
+      "analyse",
+      "develop",
+      "invent",
+      "create"
+    ]
+  },
+  "p236": {
+    "e014": [],
+    "e015": [
+      "I was given a cool powerbank for my birthday by my family.",
+      "When the teacher was read the story by Matt, she was delighted.",
+      "I'm often cooked fantastic meals by my new boyfriend.",
+      "Kim can be lent some money by Jason to buy lunch."
+    ],
+    "e017": [
+      "had it modified / got it modified",
+      "have it checked / get it checked",
+      "Have you had your ear pierced / Have you got your ear pierced",
+      "have them upgraded / get them upgraded",
+      "had them delivered / got them delivered",
+      "have one done / get one done"
+    ],
+    "e016": [
+      "I have to get my laptop fixed.",
+      "Liam is having his phone updated for better security.",
+      "Barbara had her house cleaned after the painters had left.",
+      "Do you like having your photo taken?",
+      "Gail has had her nails painted for the wedding.",
+      "How often do you get your eyes tested?"
+    ],
+    "e018": [
+      "was invented by",
+      "'ve it delivered",
+      "These old computers will be",
+      "to get it changed",
+      "are selling the new Mac Pro",
+      "had my car fixed / got my car fixed / had my car fixed by a mechanic / got my car fixed by a mechanic"
+    ]
+  },
+  "p240": {
+    "e003": [
+      "18th February / 18 February / February 18th / February 18 / the eighteenth of February",
+      "invented",
+      "creativity",
+      "57% / 57 percent / 57 per cent / fifty-seven percent / fifty-seven per cent",
+      "be told",
+      "Jobs for"
+    ],
+    "e001": [
+      "read",
+      "was",
+      "behind",
+      "broadcast",
+      "scrolled",
+      "newspaper"
+    ]
+  },
+  "p248": {
+    "e014": [
+      "sound like",
+      "looked as if",
+      "seem like",
+      "felt",
+      "tasted like",
+      "smells as if"
+    ],
+    "e018": [
+      "disappointed",
+      "inspiring",
+      "surprising",
+      "satisfied",
+      "frightened",
+      "surprised"
+    ],
+    "e017": [
+      "entertained",
+      "disappointing",
+      "bored",
+      "interesting",
+      "frightening",
+      "thrilled",
+      "amazing"
+    ],
+    "e016": [
+      "This sweet tastes like lemon. How nice! / This sweet tastes of lemon. How nice!",
+      "The flowers didn't look fresh.",
+      "Jane sounded as if she wasn't telling the truth.",
+      "The tea tasted strange and I didn't like it.",
+      "correct",
+      "You don't look like your sister. Her hair is dark and you're blonde."
+    ],
+    "e015": [
+      "looks like / seems like",
+      "feels",
+      "tastes",
+      "sound",
+      "smells like",
+      "seems as if / feels as if"
+    ],
+    "e019": [
+      "nose",
+      "must have felt",
+      "might",
+      "should",
+      "readers",
+      "smells",
+      "seems",
+      "plot twists",
+      "hit"
+    ]
+  },
+  "p245": {
+    "e001": [
+      "sci",
+      "novel",
+      "crime story",
+      "self-help book",
+      "fantasy novel",
+      "historical novel",
+      "fairy tale",
+      "horror story",
+      "romantic novel",
+      "thriller",
+      "graphic novel",
+      "biography",
+      "playwright",
+      "novelist",
+      "poet",
+      "plot twist",
+      "happy ending",
+      "chapter",
+      "setting",
+      "villain",
+      "protagonist"
+    ],
+    "e005": [
+      "can't",
+      "may not",
+      "must",
+      "might not",
+      "may"
+    ],
+    "e002": [
+      "romantic novel",
+      "fairy tale",
+      "biography",
+      "self-help book",
+      "horror story / thriller",
+      "historical novel"
+    ],
+    "e003": [
+      "crime story",
+      "graphic novel",
+      "biography",
+      "fantasy novel"
+    ],
+    "e004": [
+      "playwright",
+      "chapter",
+      "villain",
+      "setting",
+      "happy ending",
+      "plot twist",
+      "novelist"
+    ]
+  },
+  "p246": {
+    "e007": [
+      "The villain can't have died. / The villain couldn't have died.",
+      "They may have been busy. / They might have been busy. / They could have been busy.",
+      "The novelist must have been surprised.",
+      "She may not have felt ready to speak. / She might not have felt ready to speak.",
+      "We can't have forgotten the appointment. / We couldn't have forgotten the appointment."
+    ],
+    "e009": [
+      "shouldn't have bought",
+      "should have chosen",
+      "shouldn't have watched",
+      "should have read",
+      "should have gone",
+      "should have asked",
+      "shouldn't have told"
+    ],
+    "e006": [
+      "might have put / may have put / could have put",
+      "can't have arrived / couldn't have arrived",
+      "might not have written / may not have written",
+      "must have finished",
+      "can't have been / couldn't have been",
+      "must have studied",
+      "might have known / may have known / could have known",
+      "must have passed"
+    ],
+    "e008": [
+      "She should have gone to bed early. / She should have gone to bed earlier.",
+      "He should have spoken to the press.",
+      "She shouldn't have kept the secret.",
+      "They should have booked the tickets in advance.",
+      "I shouldn't have revealed anything.",
+      "They should have sold them to a second-hand shop."
+    ]
+  },
+  "p247": {
+    "e012": [
+      "F",
+      "A",
+      "G",
+      "C",
+      "E"
+    ],
+    "e010": [
+      "painter",
+      "architect",
+      "sculptor",
+      "photographer",
+      "design",
+      "sculpt",
+      "take photos",
+      "pictures",
+      "paint",
+      "draw",
+      "sculpture",
+      "architecture",
+      "photography",
+      "portrait",
+      "seascape",
+      "landscape",
+      "still life",
+      "abstract"
+    ],
+    "e013": [
+      "doesn't look / doesn't seem",
+      "tasted",
+      "sounded",
+      "smells",
+      "feels / looks",
+      "do they look / do they seem"
+    ],
+    "e011": [
+      "architecture",
+      "take",
+      "painter",
+      "sculptor",
+      "still life",
+      "sculpture",
+      "painting",
+      "designed",
+      "photography",
+      "portrait"
+    ]
+  },
+  "p249": {
+    "e021": [
+      "brief description",
+      "recommendation",
+      "opinion",
+      "introduction",
+      "2",
+      "4",
+      "3",
+      "1"
+    ]
+  },
+  "p252": {
+    "e029": [
+      "the digital age",
+      "eight months / 8 months",
+      "a creative eye",
+      "a powerful tool for self-expression",
+      "the importance of colours",
+      "the correct distance",
+      "happiness",
+      "a person walking at sunset / a man walking at sunset"
+    ]
+  },
+  "p265": {
+    "e031": [
+      "T",
+      "F",
+      "F",
+      "T",
+      "T",
+      "F",
+      "F",
+      "T"
+    ]
+  },
+  "p261": {
+    "e017": [
+      "–",
+      "–",
+      "the",
+      "The",
+      "the",
+      "The",
+      "the",
+      "the",
+      "the"
+    ],
+    "e015": [
+      "succeeded in",
+      "couldn't / weren't able to / didn't manage to",
+      "managed to",
+      "could",
+      "succeeded in",
+      "couldn't / wasn't able to / didn't manage to"
+    ],
+    "e018": [
+      "Lake Windermere is the largest in Britain. / Windermere is the largest lake in Britain.",
+      "Burning fossil fuels contributes to the greenhouse effect.",
+      "The British are used to frequent weather changes.",
+      "People need to change their habits to reduce pollution.",
+      "Respect is an important value to teach at school.",
+      "Lisa's favourite subject is Maths. / Maths is Lisa's favourite subject."
+    ],
+    "e016": [
+      "couldn't hand in / didn't manage to hand in",
+      "succeeded in speaking",
+      "didn't manage to sleep / weren't able to sleep",
+      "was able to imitate",
+      "Were you able to get / Did you manage to get"
+    ],
+    "e014": [
+      "A was able",
+      "B couldn’t",
+      "A succeeded",
+      "B Could you",
+      "A weren’t able",
+      "C didn’t manage"
+    ]
+  },
+  "p259": {
+    "e005": [
+      "preparing",
+      "B",
+      "Listening",
+      "A",
+      "not wasting",
+      "E",
+      "stopping",
+      "D",
+      "organising",
+      "C",
+      "dancing",
+      "F"
+    ],
+    "e006": [
+      "to help",
+      "C",
+      "to go",
+      "A",
+      "not to buy",
+      "E",
+      "not to feel",
+      "B",
+      "to join",
+      "D"
+    ],
+    "e007": [
+      "reaching",
+      "to rent",
+      "to stop",
+      "to volunteer",
+      "taking",
+      "to protect",
+      "Exploring",
+      "to learn",
+      "seeing",
+      "to help",
+      "thanking"
+    ],
+    "e008": [
+      "Breathing in carbon dioxide",
+      "to see so many tourists",
+      "to come to the protest march",
+      "It is very easy to recycle / It's very easy to recycle",
+      "passing the exam"
+    ],
+    "e009": [
+      "working",
+      "to observe",
+      "to switch off",
+      "sailing",
+      "joining",
+      "to clean up",
+      "thinking",
+      "to send in"
+    ]
+  },
+  "p260": {
+    "e013": [
+      "break out",
+      "put it out",
+      "erupt",
+      "flows",
+      "strikes",
+      "destroys",
+      "burst",
+      "shake"
+    ],
+    "e012": [
+      "heatwave",
+      "flooding / flood",
+      "hailstorm",
+      "avalanche / landslide",
+      "tornado / hurricane",
+      "landslide",
+      "drought",
+      "hurricane",
+      "earthquake"
+    ],
+    "e011": [
+      "landslide",
+      "earthquake",
+      "avalanche",
+      "tornado",
+      "hurricane",
+      "volcanic eruption",
+      "wildfire",
+      "heatwave",
+      "drought",
+      "tsunami",
+      "tidal wave",
+      "flooding",
+      "flood",
+      "hailstorm"
+    ],
+    "e010": [
+      "getting",
+      "to look",
+      "to leave",
+      "working",
+      "to tell",
+      "Transferring",
+      "to protect",
+      "to see",
+      "being",
+      "working"
+    ]
+  },
+  "p258": {
+    "e003": [
+      "Biodiversity",
+      "endangered",
+      "Harmful emissions",
+      "sources of energy",
+      "Waste disposal",
+      "recycling bins",
+      "atmosphere",
+      "pollution"
+    ],
+    "e001": [
+      "global warming",
+      "climate change",
+      "pollution",
+      "deforestation",
+      "greenhouse effect",
+      "fossil fuels",
+      "harmful emissions",
+      "carbon dioxide",
+      "endangered",
+      "atmosphere",
+      "ecosystems",
+      "biodiversity",
+      "recycling bins",
+      "solar panels",
+      "waste disposal",
+      "sources",
+      "energy"
+    ],
+    "e004": [
+      "damage",
+      "throw away",
+      "reduce",
+      "save",
+      "Recycle",
+      "pollute"
+    ],
+    "e002": [
+      "deforestation",
+      "greenhouse effect",
+      "solar panel",
+      "fossil fuels",
+      "global warming",
+      "carbon dioxide",
+      "climate change",
+      "ecosystem",
+      "endangered"
+    ]
+  },
+  "p262": {
+    "e020": [
+      "rabbit",
+      "Sharks",
+      "penguin",
+      "frog",
+      "elephant",
+      "monkey",
+      "guinea pig",
+      "whale",
+      "rhino",
+      "tiger",
+      "dolphin",
+      "turtle"
+    ],
+    "e019": [
+      "Disco music was fantastic back in the Seventies.",
+      "The Moon is huge tonight! Is it a super Moon?",
+      "We usually only read online newspapers but when we buy one, we get The Times.",
+      "I love koalas! They're my favourite animal and I'm so angry that they are at risk of extinction.",
+      "Whose is the tablet on the kitchen table?",
+      "correct",
+      "It's very tiring to go to school every day!",
+      "'What are you watching?' 'The new TV series that I was talking to you about earlier.'"
+    ],
+    "e021": [
+      "climate",
+      "to consider",
+      "the",
+      "warming",
+      "flows",
+      "floods",
+      "to stop",
+      "the",
+      "discussing",
+      "thinking",
+      "weren’t able",
+      "broke out"
+    ]
+  },
+  "p263": {
+    "e023": [
+      "in order to",
+      "in order not to",
+      "so that",
+      "So as to",
+      "so as not to"
+    ]
+  },
+  "p274": {
+    "e018": [],
+    "e019": [
+      "have you",
+      "were",
+      "let",
+      "citizens",
+      "launched",
+      "sit",
+      "themselves",
+      "make",
+      "do"
+    ],
+    "e017": [
+      "have you",
+      "didn't they",
+      "isn't she",
+      "will you",
+      "was he",
+      "must they",
+      "didn't we",
+      "doesn't he",
+      "aren't I",
+      "shall we",
+      "will she",
+      "isn't it"
+    ]
+  },
+  "p272": {
+    "e006": [
+      "If only he were able to speak better in public during the current campaign!",
+      "I wish they had never won the past elections.",
+      "She wishes we could change the world right now.",
+      "They wish they hadn't said those words yesterday.",
+      "If only people had freedom of speech everywhere in the world."
+    ],
+    "e010": [
+      "ourselves",
+      "yourself",
+      "each other / one another",
+      "myself",
+      "each other",
+      "themselves"
+    ],
+    "e008": [
+      "could vote",
+      "'d explained things better",
+      "'d known",
+      "'d gone",
+      "had her laptop"
+    ],
+    "e009": [
+      "myself",
+      "each other",
+      "itself",
+      "herself",
+      "each other",
+      "himself"
+    ],
+    "e005": [
+      "had been",
+      "could",
+      "hadn't moved",
+      "solved",
+      "weren't / hadn't been",
+      "didn't have"
+    ]
+  },
+  "p275": {
+    "e021": [
+      "hot air",
+      "a two-horse race",
+      "political football",
+      "common touch",
+      "toe the party line",
+      "hot potato"
+    ],
+    "e023": [
+      "disadvantages",
+      "argument in favour",
+      "Moreover",
+      "On the other hand",
+      "A further downside",
+      "All in all",
+      "Despite"
+    ],
+    "e022": [
+      "Although",
+      "In spite of / Despite",
+      "However",
+      "In spite of / Despite",
+      "Although",
+      "in spite of / despite"
+    ]
+  },
+  "p271": {
+    "e004": [
+      "politician",
+      "participate",
+      "parliament",
+      "election",
+      "initiatives",
+      "unemployment",
+      "discrimination",
+      "candidates",
+      "leader"
+    ],
+    "e003": [
+      "sign",
+      "sat",
+      "voted",
+      "hold",
+      "support",
+      "participated",
+      "launched",
+      "vote"
+    ],
+    "e001": [
+      "citizen",
+      "politician",
+      "candidate",
+      "leader",
+      "president",
+      "minister",
+      "political party",
+      "parliament",
+      "government",
+      "sign",
+      "petition",
+      "launch",
+      "initiative",
+      "support",
+      "political party",
+      "participate",
+      "politics",
+      "hold elections",
+      "vote",
+      "referendum",
+      "election",
+      "sit",
+      "parliament",
+      "civil rights",
+      "discrimination",
+      "freedom",
+      "expression",
+      "poverty",
+      "unemployment",
+      "immigration",
+      "emigration",
+      "inequality"
+    ],
+    "e002": [
+      "minister",
+      "election",
+      "president",
+      "parliament",
+      "citizen",
+      "candidate",
+      "party / political party",
+      "politician"
+    ]
+  },
+  "p273": {
+    "e016": [
+      "They have made me stay.",
+      "I got Alan to support our cause.",
+      "We won't let you watch that.",
+      "You should never let other people silence you.",
+      "Did they make her speak publicly?",
+      "They didn't get me to participate in the referendum. It was my choice. / They didn't make me participate in the referendum. It was my choice."
+    ],
+    "e014": [
+      "E",
+      "C",
+      "A",
+      "H",
+      "D",
+      "G"
+    ],
+    "e013": [
+      "do",
+      "do",
+      "do",
+      "make",
+      "make",
+      "do",
+      "make",
+      "make",
+      "do",
+      "make",
+      "make"
+    ],
+    "e011": [
+      "went to the political meeting by himself",
+      "herself wrote a protest song",
+      "saw each other",
+      "himself visited the town",
+      "the initiative by themselves",
+      "to each other / to one another"
+    ]
+  },
+  "p277": {
+    "e029": [
+      "B",
+      "C",
+      "A",
+      "B",
+      "D",
+      "D",
+      "A"
+    ]
+  },
+  "p278": {
+    "e001": [
+      "out",
+      "order",
+      "to",
+      "make",
+      "doing",
+      "themselves"
+    ],
+    "e003": [
+      "C there are several steps in speechwriting.",
+      "B varies, depending on the occasion.",
+      "B but she really likes it.",
+      "A can be included in speeches only if they’re really amusing.",
+      "C seem more human thanks to jokes.",
+      "A he was able to inspire."
+    ]
+  }
+}
