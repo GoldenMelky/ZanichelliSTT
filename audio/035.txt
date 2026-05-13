@@ -1,0 +1,15 @@
+Foundation, Unit 2, Presentation and Practice 2, Exercise 2.
+1. Bakers, Bakery, Pastries.
+2. Street Market, Cheap Clothes.
+3. Green Grocers, Fruit.
+4. Butchers, Meat.
+5. Bookshop, Books.
+6. Chemists, Pharmacy, Medicine.
+7. Sports Shop, Trainers.
+8. Electronics Shop, Smartphone.
+9. Department Store, Trainers, Meat, Books, Fruit, Smartphone, Pastries, Cheap Clothes.
+9. Department Store, Trainers, Meat, Books, Fruit, Smartphone, Pastries, Cheap Clothes.
+9. Department Store, Trainers, Meat, Books, Fruit, Smartphone, Pastries, Cheap Clothes.
+9. Department Store, Trainers, Meat, Books, Fruit, Smartphone, Pastries, Cheap Clothes.
+9. Department Store, Trainers, Meat, Books, Fruit, Smartphone, Pastries, Cheap Clothes.
+you

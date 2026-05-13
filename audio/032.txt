@@ -1,0 +1,4 @@
+Foundation, Unit 2, Presentation and Practice 1, Exercise 7.
+Size, Length, Large, Medium, Small, Short, Shape, Cut, Slim Fit,
+Pattern, Floral, Striped, Checked, Plain, Material, Linen, Velvet, Wool, Woollen, Silk, Denim,
+Cotton.

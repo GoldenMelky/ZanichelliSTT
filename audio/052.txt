@@ -1,0 +1,8 @@
+Foundation, Unit 3, Communication 1, Exercise 1.
+1. F. Fixed Price Menu.
+2. D. Starters.
+3. A. Today's Special, Dish of the Day.
+4. G. Main Courses.
+5. C. Side Dishes.
+6. E. Desserts.
+7. B. Drinks, Beverages.
