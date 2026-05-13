@@ -1,0 +1,19 @@
+Growth, Unit 11, Presentation and Practice 2, Exercises 5 and 6.
+It's early in the morning and your alarm has just rung.
+You'll reach straight for your phone and check what today's weather may be like on your weather app.
+It tells you it's going to be a great day, warm and sunny, a perfect day for a picnic.
+But what if those predictions are wrong?
+You may be stuck in the rain without an umbrella or be too cold in your light clothes because the wind is blowing and it's freezing outside.
+If you check other weather apps, you might even get such different forecasts that you might think your weather app is not so reliable after all.
+Actually, nowadays, weather forecasts are on average very reliable.
+A five-day forecast can accurately predict the weather 90% of the time.
+But a 10-day forecast, or longer, is right about half the time.
+When an app tells you that there's a 20% chance of rain on a single day, it means that you might even go out without an umbrella.
+We meteorologists use super-computers to analyse billions of data and pictures from environmental satellites.
+We then create mathematical weather models that weather apps rely on.
+These models divide the world into small areas or boxes.
+The size of these boxes affects the accuracy.
+A large box may not give such precise data over small areas, but can show general trends, like a storm crossing over the country.
+Small boxes may be better at forecasting local storms, while other models might prioritise certain kinds of data over others to generate predictions.
+For example, wind speed, temperature and humidity.
+That's why two models might give different results, even with exactly the same starting observations.
