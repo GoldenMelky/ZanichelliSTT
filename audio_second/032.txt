@@ -1,0 +1,7 @@
+Core, Unit 3. Presentation and Practice 2. Exercise 1.
+5. H. Credit Card.
+6. F. Prepaid Card.
+7. J. Bank Transfer.
+8. D. Cash Machine, ATM.
+9. G. Cash.
+10. B. Mobile Payment.

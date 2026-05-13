@@ -1,0 +1,23 @@
+Expansion, Unit 5, Competences for Life, AI and the Police, a new collaboration.
+The sci-fi film Minority Report, 2002, directed by Steven Spielberg, imagined a world where a police department used advanced AI, artificial intelligence, to predict and prevent crimes.
+There were constant AI scans and police could catch criminals before they committed a crime.
+Well, this technology has now become a reality.
+The integration of AI in policing can be very effective.
+In fact, some AI technologies can predict or identify criminal activity, which improves public safety.
+One of the first uses of crime prevention technologies was at the Los Angeles Police Department, LAPD, in 2010.
+The police force had discovered that certain crimes usually followed similar patterns and developed a mathematical model which could detect patterns in criminal incidents.
+Today, police departments around the world use much more accurate tools that take information and learn from various sources, such as police records and surveillance cameras.
+These technologies have sometimes been used to predict crimes before they happen, such as terrorist attacks and financial crimes.
+AI also contributes to cybersecurity because it can identify potential threats or anomalies in network or data traffic.
+This can help security teams respond quickly to try and prevent crimes.
+A common aspect of AI is facial recognition, which many countries use in public areas to monitor citizens and catch criminals while they are committing crimes.
+However, this technology is not perfect, and mistakes can happen.
+Some years ago, for example, a lawyer defended a man accused of shoplifting.
+At the time of the theft, the man was at a hospital where his wife was having their first child.
+Luckily, his lawyer realized that the police had misinterpreted the security camera records.
+If the lawyer hadn't questioned the investigation, the jury and the judge would have convicted an innocent man.
+If the police had had access to AI in the past, would they have solved more serious crimes?
+They probably would have.
+But obviously, we can't simply replace police officers with computers.
+What we need to do is consider how human-machine teamwork can improve crime prevention.
+Officers, detectives and computers can work together and learn from each other.
